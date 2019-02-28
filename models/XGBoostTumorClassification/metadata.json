@@ -1,0 +1,176 @@
+{
+    "algorithm": "Pipeline",
+    "algorithmType": "Classification",
+    "author": "999",
+    "createdAt": 1551353761158,
+    "features": [
+        {
+            "name": "0",
+            "sample": 12.23,
+            "type": "float"
+        },
+        {
+            "name": "1",
+            "sample": 19.56,
+            "type": "float"
+        },
+        {
+            "name": "2",
+            "sample": 78.54,
+            "type": "float"
+        },
+        {
+            "name": "3",
+            "sample": 461.0,
+            "type": "float"
+        },
+        {
+            "name": "4",
+            "sample": 0.09586,
+            "type": "float"
+        },
+        {
+            "name": "5",
+            "sample": 0.08087,
+            "type": "float"
+        },
+        {
+            "name": "6",
+            "sample": 0.04187,
+            "type": "float"
+        },
+        {
+            "name": "7",
+            "sample": 0.04107,
+            "type": "float"
+        },
+        {
+            "name": "8",
+            "sample": 0.1979,
+            "type": "float"
+        },
+        {
+            "name": "9",
+            "sample": 0.06013,
+            "type": "float"
+        },
+        {
+            "name": "10",
+            "sample": 0.3534,
+            "type": "float"
+        },
+        {
+            "name": "11",
+            "sample": 1.326,
+            "type": "float"
+        },
+        {
+            "name": "12",
+            "sample": 2.308,
+            "type": "float"
+        },
+        {
+            "name": "13",
+            "sample": 27.24,
+            "type": "float"
+        },
+        {
+            "name": "14",
+            "sample": 0.007514,
+            "type": "float"
+        },
+        {
+            "name": "15",
+            "sample": 0.01779,
+            "type": "float"
+        },
+        {
+            "name": "16",
+            "sample": 0.01401,
+            "type": "float"
+        },
+        {
+            "name": "17",
+            "sample": 0.0114,
+            "type": "float"
+        },
+        {
+            "name": "18",
+            "sample": 0.01503,
+            "type": "float"
+        },
+        {
+            "name": "19",
+            "sample": 0.003338,
+            "type": "float"
+        },
+        {
+            "name": "20",
+            "sample": 14.44,
+            "type": "float"
+        },
+        {
+            "name": "21",
+            "sample": 28.36,
+            "type": "float"
+        },
+        {
+            "name": "22",
+            "sample": 92.15,
+            "type": "float"
+        },
+        {
+            "name": "23",
+            "sample": 638.4,
+            "type": "float"
+        },
+        {
+            "name": "24",
+            "sample": 0.1429,
+            "type": "float"
+        },
+        {
+            "name": "25",
+            "sample": 0.2042,
+            "type": "float"
+        },
+        {
+            "name": "26",
+            "sample": 0.1377,
+            "type": "float"
+        },
+        {
+            "name": "27",
+            "sample": 0.108,
+            "type": "float"
+        },
+        {
+            "name": "28",
+            "sample": 0.2668,
+            "type": "float"
+        },
+        {
+            "name": "29",
+            "sample": 0.08174,
+            "type": "float"
+        }
+    ],
+    "id": 1551353761158,
+    "isPublished": false,
+    "labelColumns": [
+        {
+            "name": "0",
+            "type": "float"
+        }
+    ],
+    "latestModelVersion": 1,
+    "learningType": "Supervised",
+    "name": "XGBoostTumorClassification",
+    "params": {},
+    "publishedBy": "",
+    "publishedModelVersion": -1,
+    "runtime": "Python35",
+    "serialization": "joblib",
+    "source": "Use XGBoost to classify tumors.ipynb",
+    "type": "scikit-learn-0.20"
+}

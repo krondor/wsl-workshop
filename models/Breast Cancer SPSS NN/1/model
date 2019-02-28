@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><PMML version="4.3" xmlns="http://www.dmg.org/PMML-4_3" xmlns:xsi="http://www.w3.org/2001/XMLSchema"><Header copyright="(C) Copyright IBM Corp. 1994, 2017">
+<Application name="IBM SPSS Modeler Server" version="1.0.0"/>
+<Timestamp>Tue Sep 11 20:57:53 2018</Timestamp>
+</Header><DataDictionary numberOfFields="32">
+<DataField dataType="double" displayName="area_mean_transformed" name="area_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="area_se_transformed" name="area_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="area_worst_transformed" name="area_worst_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="compactness_mean_transformed" name="compactness_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="compactness_se_transformed" name="compactness_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="compactness_worst_transformed" name="compactness_worst_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="concave_points_mean_transformed" name="concave_points_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="concave_points_se_transformed" name="concave_points_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="concave_points_worst_transformed" name="concave_points_worst_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="concavity_mean_transformed" name="concavity_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="concavity_se_transformed" name="concavity_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="concavity_worst_transformed" name="concavity_worst_transformed" optype="continuous"/>
+<DataField dataType="string" displayName="diagnosis" name="diagnosis" optype="categorical">
+<Extension extender="spss.com" name="flagTypeTrueValue" value="M"/>
+<Value value="B"/>
+<Value value="M"/>
+</DataField>
+<DataField dataType="double" displayName="fractal_dimension_mean_transformed" name="fractal_dimension_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="fractal_dimension_se_transformed" name="fractal_dimension_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="fractal_dimension_worst_transformed" name="fractal_dimension_worst_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="id_transformed" name="id_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="perimeter_mean_transformed" name="perimeter_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="perimeter_se_transformed" name="perimeter_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="perimeter_worst_transformed" name="perimeter_worst_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="radius_mean_transformed" name="radius_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="radius_se_transformed" name="radius_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="radius_worst_transformed" name="radius_worst_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="smoothness_mean_transformed" name="smoothness_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="smoothness_se_transformed" name="smoothness_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="smoothness_worst_transformed" name="smoothness_worst_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="symmetry_mean_transformed" name="symmetry_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="symmetry_se_transformed" name="symmetry_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="symmetry_worst_transformed" name="symmetry_worst_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="texture_mean_transformed" name="texture_mean_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="texture_se_transformed" name="texture_se_transformed" optype="continuous"/>
+<DataField dataType="double" displayName="texture_worst_transformed" name="texture_worst_transformed" optype="continuous"/>
+</DataDictionary><TransformationDictionary>
+<DerivedField dataType="double" name="area_mean_transformedNorm" optype="continuous">
+<NormContinuous field="area_mean_transformed">
+<LinearNorm norm="-1.65360188758541" orig="-1.58718313419365"/>
+<LinearNorm norm="2.45750882696451" orig="2.52708469291423"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="area_se_transformedNorm" optype="continuous">
+<NormContinuous field="area_se_transformed">
+<LinearNorm norm="-1.03839504507929" orig="-1.02976313623319"/>
+<LinearNorm norm="2.50129457138559" orig="2.62520033742092"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="area_worst_transformedNorm" optype="continuous">
+<NormContinuous field="area_worst_transformed">
+<LinearNorm norm="-1.41292654617266" orig="-1.36811410979192"/>
+<LinearNorm norm="2.3853289578921" orig="2.45227671516173"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="compactness_mean_transformedNorm" optype="continuous">
+<NormContinuous field="compactness_mean_transformed">
+<LinearNorm norm="-1.47304436695567" orig="-1.4500095221712"/>
+<LinearNorm norm="2.54624132344831" orig="2.44489229331763"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="compactness_se_transformedNorm" optype="continuous">
+<NormContinuous field="compactness_se_transformed">
+<LinearNorm norm="-1.35521367317478" orig="-1.33434388324577"/>
+<LinearNorm norm="2.52032489477324" orig="2.43469577369974"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="compactness_worst_transformedNorm" optype="continuous">
+<NormContinuous field="compactness_worst_transformed">
+<LinearNorm norm="-1.48772464653383" orig="-1.45004419664763"/>
+<LinearNorm norm="2.47786348060314" orig="2.43824505829146"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="concave_points_mean_transformedNorm" optype="continuous">
+<NormContinuous field="concave_points_mean_transformed">
+<LinearNorm norm="-1.33226369981084" orig="-1.32007648338273"/>
+<LinearNorm norm="2.4702619814449" orig="2.46401577803841"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="concave_points_se_transformedNorm" optype="continuous">
+<NormContinuous field="concave_points_se_transformed">
+<LinearNorm norm="-2.20444804769486" orig="-2.11344750203022"/>
+<LinearNorm norm="2.61442976407664" orig="2.50583092068081"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="concave_points_worst_transformedNorm" optype="continuous">
+<NormContinuous field="concave_points_worst_transformed">
+<LinearNorm norm="-1.76665951130238" orig="-1.74431307474497"/>
+<LinearNorm norm="2.61967606193227" orig="2.61887294881615"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="concavity_mean_transformedNorm" optype="continuous">
+<NormContinuous field="concavity_mean_transformed">
+<LinearNorm norm="-1.21061917703205" orig="-1.19245728858693"/>
+<LinearNorm norm="2.56348524233559" orig="2.47696577469267"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="concavity_se_transformedNorm" optype="continuous">
+<NormContinuous field="concavity_se_transformed">
+<LinearNorm norm="-1.49233099069008" orig="-1.45258007287706"/>
+<LinearNorm norm="2.67202148574786" orig="2.59654213686027"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="concavity_worst_transformedNorm" optype="continuous">
+<NormContinuous field="concavity_worst_transformed">
+<LinearNorm norm="-1.39096643466732" orig="-1.36905749371339"/>
+<LinearNorm norm="2.52075981383657" orig="2.49967916070348"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="diagnosisValue0" optype="categorical">
+<NormDiscrete field="diagnosis" value="B"/>
+</DerivedField>
+<DerivedField dataType="double" name="diagnosisValue1" optype="categorical">
+<NormDiscrete field="diagnosis" value="M"/>
+</DerivedField>
+<DerivedField dataType="double" name="fractal_dimension_mean_transformedNorm" optype="continuous">
+<NormContinuous field="fractal_dimension_mean_transformed">
+<LinearNorm norm="-1.9711530270346" orig="-1.89767092004479"/>
+<LinearNorm norm="2.80746373653693" orig="2.49794879169552"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="fractal_dimension_se_transformedNorm" optype="continuous">
+<NormContinuous field="fractal_dimension_se_transformed">
+<LinearNorm norm="-1.43874418620514" orig="-1.40883381035082"/>
+<LinearNorm norm="2.98546749124519" orig="2.88120704558518"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="fractal_dimension_worst_transformedNorm" optype="continuous">
+<NormContinuous field="fractal_dimension_worst_transformed">
+<LinearNorm norm="-1.86269753993863" orig="-1.77511870540954"/>
+<LinearNorm norm="2.6530779316719" orig="2.45337883401656"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="id_transformedNorm" optype="continuous">
+<NormContinuous field="id_transformed">
+<LinearNorm norm="-0.489751421608419" orig="-0.485623976455301"/>
+<LinearNorm norm="2.70870488824706" orig="2.74157347623381"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="perimeter_mean_transformedNorm" optype="continuous">
+<NormContinuous field="perimeter_mean_transformed">
+<LinearNorm norm="-2.15027994605235" orig="-2.05571022244697"/>
+<LinearNorm norm="2.53904595768032" orig="2.57037948961343"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="perimeter_se_transformedNorm" optype="continuous">
+<NormContinuous field="perimeter_se_transformed">
+<LinearNorm norm="-1.26990983430378" orig="-1.24790183833269"/>
+<LinearNorm norm="2.89681643626924" orig="2.90915555059215"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="perimeter_worst_transformedNorm" optype="continuous">
+<NormContinuous field="perimeter_worst_transformed">
+<LinearNorm norm="-1.84640091061034" orig="-1.76928779310519"/>
+<LinearNorm norm="2.43775304578669" orig="2.45753933526892"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="radius_mean_transformedNorm" optype="continuous">
+<NormContinuous field="radius_mean_transformed">
+<LinearNorm norm="-2.18902455258587" orig="-2.09109218977202"/>
+<LinearNorm norm="2.5752446730773" orig="2.61308675286884"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="radius_se_transformedNorm" optype="continuous">
+<NormContinuous field="radius_se_transformed">
+<LinearNorm norm="-1.2194528638368" orig="-1.20832557329576"/>
+<LinearNorm norm="2.87207537011055" orig="2.90110470003341"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="radius_worst_transformedNorm" optype="continuous">
+<NormContinuous field="radius_worst_transformed">
+<LinearNorm norm="-1.84537173910189" orig="-1.79087709191101"/>
+<LinearNorm norm="2.45773280702322" orig="2.52414380967291"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="smoothness_mean_transformedNorm" optype="continuous">
+<NormContinuous field="smoothness_mean_transformed">
+<LinearNorm norm="-2.24628384069714" orig="-2.23415287809775"/>
+<LinearNorm norm="2.76468732134537" orig="2.66023940747273"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="smoothness_se_transformedNorm" optype="continuous">
+<NormContinuous field="smoothness_se_transformed">
+<LinearNorm norm="-1.7723129131223" orig="-1.71697477499043"/>
+<LinearNorm norm="2.82505333628942" orig="2.51606355397676"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="smoothness_worst_transformedNorm" optype="continuous">
+<NormContinuous field="smoothness_worst_transformed">
+<LinearNorm norm="-1.9790841840757" orig="-1.99276489421247"/>
+<LinearNorm norm="2.65932496369735" orig="2.57531772377202"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="symmetry_mean_transformedNorm" optype="continuous">
+<NormContinuous field="symmetry_mean_transformed">
+<LinearNorm norm="-2.3544878880381" orig="-2.27384298599391"/>
+<LinearNorm norm="3.11381523970448" orig="2.83727674386563"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="symmetry_se_transformedNorm" optype="continuous">
+<NormContinuous field="symmetry_se_transformed">
+<LinearNorm norm="-1.83573502858722" orig="-1.83537861686436"/>
+<LinearNorm norm="2.77760622136412" orig="2.48325682649743"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="symmetry_worst_transformedNorm" optype="continuous">
+<NormContinuous field="symmetry_worst_transformed">
+<LinearNorm norm="-2.29909952952456" orig="-2.35470828513097"/>
+<LinearNorm norm="2.85520921258427" orig="2.79151948964608"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="texture_mean_transformedNorm" optype="continuous">
+<NormContinuous field="texture_mean_transformed">
+<LinearNorm norm="-2.0832245657166" orig="-1.99640962058088"/>
+<LinearNorm norm="2.73679459358709" orig="2.56109040197674"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="texture_se_transformedNorm" optype="continuous">
+<NormContinuous field="texture_se_transformed">
+<LinearNorm norm="-1.59095109811571" orig="-1.57838385392795"/>
+<LinearNorm norm="2.77926190651118" orig="2.52027078991476"/>
+</NormContinuous>
+</DerivedField>
+<DerivedField dataType="double" name="texture_worst_transformedNorm" optype="continuous">
+<NormContinuous field="texture_worst_transformed">
+<LinearNorm norm="-1.85714868822819" orig="-1.79570491777553"/>
+<LinearNorm norm="2.80006461590533" orig="2.63913853820811"/>
+</NormContinuous>
+</DerivedField>
+<DefineFunction dataType="double" name="UnknownScoreAlgorithm" optype="continuous"><ParameterField dataType="double" name="rawPropensity" optype="continuous"/><Apply function="identity"><Apply function="+"><Constant dataType="double">-0.19336009275918</Constant><Apply function="*"><Constant dataType="double">-0.19336009275918</Constant><Apply function="tanh"><Apply function="+"><Constant dataType="double">0.994745533230597</Constant><Apply function="*"><Constant dataType="double">0.694252379550407</Constant><FieldRef field="rawPropensity"/></Apply></Apply></Apply></Apply><Apply function="*"><Constant dataType="double">0.994745533230597</Constant><Apply function="tanh"><Apply function="+"><Constant dataType="double">0.694252379550407</Constant><Apply function="*"><Constant dataType="double">-0.599880901230353</Constant><FieldRef field="rawPropensity"/></Apply></Apply></Apply></Apply><Apply function="*"><Constant dataType="double">0.694252379550407</Constant><Apply function="tanh"><Apply function="+"><Constant dataType="double">-0.599880901230353</Constant><Apply function="*"><Constant dataType="double">-0.946094664582224</Constant><FieldRef field="rawPropensity"/></Apply></Apply></Apply></Apply></Apply></Apply></DefineFunction></TransformationDictionary><NeuralNetwork activationFunction="tanh" algorithmName="MLP" functionName="classification"><Extension extender="spss.com" name="adjustedPropensity"><AdjustedPropensityByNN description="standalone"><HiddenLayer activationFunction="tanh"><Matrix><Array n="3" type="real">-0.19336009275918 0.994745533230597 0.694252379550407</Array></Matrix><Array n="3" type="real">-0.599880901230353 -0.946094664582224 -0.0432123584974391</Array></HiddenLayer><OutputLayer activationFunction="identity"><Matrix><Array n="1" type="real">0.157137049937806</Array><Array n="1" type="real">-0.79191374539994</Array><Array n="1" type="real">1.19140455870502</Array></Matrix><Array n="1" type="real">0.220571655956797</Array></OutputLayer></AdjustedPropensityByNN></Extension><Extension extender="spss.com" name="modelID" value="0"/><MiningSchema>
+<MiningField importance="0.0421493419341512" name="area_mean_transformed"/>
+<MiningField importance="0.0348437023886683" name="area_se_transformed"/>
+<MiningField importance="0.0479710642015445" name="area_worst_transformed"/>
+<MiningField importance="0.0121949957989929" name="compactness_mean_transformed"/>
+<MiningField importance="0.0188987108544399" name="compactness_se_transformed"/>
+<MiningField importance="0.00776631125712095" name="compactness_worst_transformed"/>
+<MiningField importance="0.0309360343278267" name="concave_points_mean_transformed"/>
+<MiningField importance="0.00846678969603701" name="concave_points_se_transformed"/>
+<MiningField importance="0.0167479931383257" name="concave_points_worst_transformed"/>
+<MiningField importance="0.00879006302178115" name="concavity_mean_transformed"/>
+<MiningField importance="0.0385695365315385" name="concavity_se_transformed"/>
+<MiningField importance="0.0449261405383444" name="concavity_worst_transformed"/>
+<MiningField importance="0.0197375749806064" name="fractal_dimension_mean_transformed"/>
+<MiningField importance="0.03045300633649" name="fractal_dimension_se_transformed"/>
+<MiningField importance="0.0230056129012618" name="fractal_dimension_worst_transformed"/>
+<MiningField importance="0.0108839711474496" name="id_transformed"/>
+<MiningField importance="0.0367931996018698" name="perimeter_mean_transformed"/>
+<MiningField importance="0.0266711073369377" name="perimeter_se_transformed"/>
+<MiningField importance="0.0104827869329684" name="perimeter_worst_transformed"/>
+<MiningField importance="0.0593533748368043" name="radius_mean_transformed"/>
+<MiningField importance="0.0728487665445556" name="radius_se_transformed"/>
+<MiningField importance="0.0811328552912822" name="radius_worst_transformed"/>
+<MiningField importance="0.0343157483304717" name="smoothness_mean_transformed"/>
+<MiningField importance="0.0371529109590196" name="smoothness_se_transformed"/>
+<MiningField importance="0.0554607159566658" name="smoothness_worst_transformed"/>
+<MiningField importance="0.00548330583363433" name="symmetry_mean_transformed"/>
+<MiningField importance="0.0312055507262442" name="symmetry_se_transformed"/>
+<MiningField importance="0.0705864859908031" name="symmetry_worst_transformed"/>
+<MiningField importance="0.0506421817537582" name="texture_mean_transformed"/>
+<MiningField importance="0.0111804084283046" name="texture_se_transformed"/>
+<MiningField importance="0.0203497524221014" name="texture_worst_transformed"/>
+<MiningField name="diagnosis" usageType="predicted"/>
+</MiningSchema><ModelExplanation><PredictiveModelQuality dataUsage="training" targetField="diagnosis"><ConfusionMatrix><ClassLabels><Array n="2" type="string">"B" "M"</Array></ClassLabels><Matrix><Array n="2" type="int">247 1</Array><Array n="2" type="int">4 143</Array></Matrix></ConfusionMatrix><LiftData targetFieldDisplayValue="B" targetFieldValue="B"><ModelLiftGraph><LiftGraph><XCoordinates><Array n="21" type="int">4 23 42 61 80 99 118 137 156 175 194 213 232 251 270 289 308 327 346 365 395</Array></XCoordinates><YCoordinates><Array n="21" type="int">0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 19 19 19 19 19 30</Array></YCoordinates><BoundaryValues><Array n="21" type="real">0.997481712046009 0.997478487793388 0.997470275144244 0.997457430652379 0.997426056321594 0.997365387054601 0.997292219121887 0.997110416345061 0.996758481450358 0.995515504064266 0.99402076635839 0.985000875266912 0.964737708215653 0.510319116042931 0.0254547588921994 0.00371133503839929 0.0030575040542914 0.00295413927772684 0.00294729558482608 0.00294637772196165 0.00294631842146916</Array></BoundaryValues><BoundaryValueMeans><Array n="21" type="real">0.997481835351958 0.997480402765863 0.997475161107484 0.997465922987971 0.997442409564666 0.997393291972373 0.997334848972067 0.9972086666201 0.99691405291466 0.996174828496819 0.994711024721933 0.991475822208813 0.974056659549784 0.863677428007937 0.118679283984403 0.00647266836254677 0.00328770811012788 0.0029786288475473 0.00294987709673264 0.00294661758719119 0.00294632712020772</Array></BoundaryValueMeans></LiftGraph></ModelLiftGraph></LiftData><LiftData targetFieldDisplayValue="M" targetFieldValue="M"><ModelLiftGraph><LiftGraph><XCoordinates><Array n="21" type="int">4 23 42 61 80 99 118 137 156 175 194 213 232 251 270 289 308 327 346 365 395</Array></XCoordinates><YCoordinates><Array n="21" type="int">4 19 19 19 19 19 19 19 6 0 0 0 0 0 0 0 0 0 0 0 0</Array></YCoordinates><BoundaryValues><Array n="21" type="real">0.997053681482767 0.997053671197317 0.997053370034012 0.997049696860467 0.997028040137551 0.996652067432651 0.994282934696351 0.895153499213167 0.0843118393577568 0.0245839446910496 0.00682653515310669 0.00520526315498529 0.00365898840662533 0.00305138162668939 0.00276611204457359 0.00265026057669056 0.00259544260842326 0.00255465125875431 0.00253209523398927 0.00252407320967778 0.00251807979674379</Array></BoundaryValues><BoundaryValueMeans><Array n="21" type="real">0.997053681543385 0.99705367886091 0.997053547161942 0.997052071684427 0.997041683608828 0.996879999853264 0.996010713893003 0.961156285561089 0.398948562214191 0.0413194210129709 0.0129406713094995 0.00593611376509065 0.00430925721490878 0.00326665587105443 0.00287999288332123 0.00269921914558905 0.00262819309098453 0.0025706492325764 0.00254033375051566 0.00252789460082434 0.00252011318420778</Array></BoundaryValueMeans></LiftGraph></ModelLiftGraph></LiftData></PredictiveModelQuality><PredictiveModelQuality dataUsage="test" targetField="diagnosis"><ConfusionMatrix><ClassLabels><Array n="2" type="string">"B" "M"</Array></ClassLabels><Matrix><Array n="2" type="int">107 2</Array><Array n="2" type="int">4 61</Array></Matrix></ConfusionMatrix><LiftData targetFieldDisplayValue="B" targetFieldValue="B"><ModelLiftGraph><LiftGraph><XCoordinates><Array n="21" type="int">2 10 18 26 34 42 50 58 66 74 82 90 98 106 114 122 130 138 146 154 174</Array></XCoordinates><YCoordinates><Array n="21" type="int">0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 8 8 8 8 8 20</Array></YCoordinates><BoundaryValues><Array n="21" type="real">0.997481458066269 0.99747825214315 0.997467585764752 0.997452239627319 0.99742939715713 0.997367499408749 0.997310155428492 0.997117695102486 0.996941383730145 0.996400237765607 0.995333656107629 0.992148804296178 0.976589342106144 0.840600512824642 0.196704939946447 0.0126104799454068 0.00405961857788184 0.00312657257556472 0.00295415319499888 0.00294702033890908 0.00294631844107947</Array></BoundaryValues><BoundaryValueMeans><Array n="21" type="real">0.997481617374295 0.997479897718482 0.997474231784395 0.997458327232356 0.99743662874884 0.99739238647403 0.997337036904155 0.997226756481549 0.997019553850186 0.996675133451231 0.995754944017859 0.993752781263914 0.98179205517293 0.92606073219552 0.548460594799124 0.061095771129714 0.00714815243535925 0.00349042128549648 0.00299433827169111 0.00294831068292095 0.00294646737191728</Array></BoundaryValueMeans></LiftGraph></ModelLiftGraph></LiftData><LiftData targetFieldDisplayValue="M" targetFieldValue="M"><ModelLiftGraph><LiftGraph><XCoordinates><Array n="21" type="int">2 10 18 26 34 42 50 58 66 74 82 90 98 106 114 122 130 138 146 154 174</Array></XCoordinates><YCoordinates><Array n="21" type="int">2 8 8 8 8 8 8 8 3 0 0 0 0 0 0 0 0 0 0 0 0</Array></YCoordinates><BoundaryValues><Array n="21" type="real">0.997053681447824 0.997053676432508 0.997053170884572 0.997051640892381 0.996981146639812 0.996358118630585 0.991736511491684 0.929207839491733 0.310901345548889 0.0383293266928992 0.0172854416261275 0.0059416906749817 0.0040220415221121 0.00319403208030356 0.00292225469870387 0.0027175592128616 0.00265812806299967 0.00259627894926897 0.00256225651162643 0.00254027387405513 0.00251822331767922</Array></BoundaryValues><BoundaryValueMeans><Array n="21" type="real">0.997053681503372 0.997053679560235 0.997053477581955 0.997052577542364 0.997029586090101 0.996672475041486 0.994576031576897 0.970148185994863 0.617986123618777 0.117344135974758 0.0217478536765384 0.00778149115397386 0.00450033530265411 0.00346888026004065 0.00303628298877163 0.00282644371013659 0.002677509034128 0.00262071450226704 0.00256996961337689 0.0025463665486161 0.00252393327163997</Array></BoundaryValueMeans></LiftGraph></ModelLiftGraph></LiftData></PredictiveModelQuality></ModelExplanation><NeuralInputs>
+<NeuralInput id="0">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="area_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="1">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="area_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="2">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="area_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="3">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="compactness_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="4">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="compactness_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="5">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="compactness_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="6">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="concave_points_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="7">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="concave_points_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="8">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="concave_points_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="9">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="concavity_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="10">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="concavity_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="11">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="concavity_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="12">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="fractal_dimension_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="13">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="fractal_dimension_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="14">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="fractal_dimension_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="15">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="id_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="16">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="perimeter_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="17">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="perimeter_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="18">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="perimeter_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="19">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="radius_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="20">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="radius_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="21">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="radius_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="22">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="smoothness_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="23">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="smoothness_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="24">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="smoothness_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="25">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="symmetry_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="26">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="symmetry_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="27">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="symmetry_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="28">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="texture_mean_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="29">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="texture_se_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+<NeuralInput id="30">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="texture_worst_transformedNorm"/>
+</DerivedField>
+</NeuralInput>
+</NeuralInputs><NeuralLayer numberOfNeurons="3">
+<Neuron bias="-0.0273121673076174" id="31">
+<Con from="0" weight="-0.499847552191197"/>
+<Con from="1" weight="-0.428077035570254"/>
+<Con from="2" weight="-0.396632686148204"/>
+<Con from="3" weight="0.349034343663941"/>
+<Con from="4" weight="0.335574045268918"/>
+<Con from="5" weight="0.338787106413367"/>
+<Con from="6" weight="0.082340337995217"/>
+<Con from="7" weight="0.25006743126075"/>
+<Con from="8" weight="-0.22744343978485"/>
+<Con from="9" weight="-0.253565393978787"/>
+<Con from="10" weight="-0.686323473505695"/>
+<Con from="11" weight="-0.175502317288446"/>
+<Con from="12" weight="-0.224991778123677"/>
+<Con from="13" weight="0.711047449354049"/>
+<Con from="14" weight="-0.271669347074163"/>
+<Con from="15" weight="0.287644980742847"/>
+<Con from="16" weight="-0.749119607573247"/>
+<Con from="17" weight="0.0180730187856393"/>
+<Con from="18" weight="-0.264412903196419"/>
+<Con from="19" weight="-0.518419879793912"/>
+<Con from="20" weight="-0.43513856974017"/>
+<Con from="21" weight="-0.388945364980347"/>
+<Con from="22" weight="-0.0124982203599366"/>
+<Con from="23" weight="-0.563430265564508"/>
+<Con from="24" weight="-0.726776470178289"/>
+<Con from="25" weight="0.0102191120159705"/>
+<Con from="26" weight="0.353600272760413"/>
+<Con from="27" weight="-0.593366026690858"/>
+<Con from="28" weight="-0.123988914125787"/>
+<Con from="29" weight="-0.0187474116375457"/>
+<Con from="30" weight="-0.463866411667627"/>
+</Neuron>
+<Neuron bias="-0.362566686920537" id="32">
+<Con from="0" weight="0.426220870875107"/>
+<Con from="1" weight="0.739607789373857"/>
+<Con from="2" weight="-0.164221283767435"/>
+<Con from="3" weight="0.106128515137187"/>
+<Con from="4" weight="0.139125715750169"/>
+<Con from="5" weight="0.0297219853261394"/>
+<Con from="6" weight="0.649201722986461"/>
+<Con from="7" weight="0.162333769100637"/>
+<Con from="8" weight="0.32427812783698"/>
+<Con from="9" weight="0.156880213693945"/>
+<Con from="10" weight="0.204646878115192"/>
+<Con from="11" weight="0.185232303544083"/>
+<Con from="12" weight="-0.223500685097004"/>
+<Con from="13" weight="-0.203255308149585"/>
+<Con from="14" weight="0.584702678875426"/>
+<Con from="15" weight="-0.132932624183104"/>
+<Con from="16" weight="-0.135055806243496"/>
+<Con from="17" weight="0.399664183427598"/>
+<Con from="18" weight="-0.291182726851029"/>
+<Con from="19" weight="0.765474820346934"/>
+<Con from="20" weight="0.372873197167881"/>
+<Con from="21" weight="0.653576423895329"/>
+<Con from="22" weight="0.109012463102017"/>
+<Con from="23" weight="0.0053004384249549"/>
+<Con from="24" weight="0.0614035471015686"/>
+<Con from="25" weight="0.233487168909664"/>
+<Con from="26" weight="-0.234573847888294"/>
+<Con from="27" weight="0.393797241139458"/>
+<Con from="28" weight="-0.0358837538472813"/>
+<Con from="29" weight="-0.443244074495077"/>
+<Con from="30" weight="0.10311079693285"/>
+</Neuron>
+<Neuron bias="0.0988238375317518" id="33">
+<Con from="0" weight="0.2890285523789"/>
+<Con from="1" weight="0.104415653290846"/>
+<Con from="2" weight="0.69856759735893"/>
+<Con from="3" weight="-0.101947403148219"/>
+<Con from="4" weight="-0.423855241669871"/>
+<Con from="5" weight="0.127210548767045"/>
+<Con from="6" weight="0.421391013551785"/>
+<Con from="7" weight="-0.0129172815854916"/>
+<Con from="8" weight="0.0327032216747315"/>
+<Con from="9" weight="-0.204791255459623"/>
+<Con from="10" weight="-0.0527478780218821"/>
+<Con from="11" weight="0.666741321008229"/>
+<Con from="12" weight="-0.493951270841166"/>
+<Con from="13" weight="-0.175596144480704"/>
+<Con from="14" weight="-0.0359703658291803"/>
+<Con from="15" weight="0.378718870065818"/>
+<Con from="16" weight="-0.407911031592053"/>
+<Con from="17" weight="0.384956979610276"/>
+<Con from="18" weight="-0.235667584836597"/>
+<Con from="19" weight="0.322619872029719"/>
+<Con from="20" weight="0.859798515373078"/>
+<Con from="21" weight="0.910946044945526"/>
+<Con from="22" weight="0.548265525229773"/>
+<Con from="23" weight="0.219624157203"/>
+<Con from="24" weight="0.351166539442649"/>
+<Con from="25" weight="0.00762645710996841"/>
+<Con from="26" weight="-0.403511308572406"/>
+<Con from="27" weight="0.564080938445427"/>
+<Con from="28" weight="0.781837360224652"/>
+<Con from="29" weight="-0.140863399678337"/>
+<Con from="30" weight="-0.174257554565305"/>
+</Neuron>
+</NeuralLayer><NeuralLayer activationFunction="identity" normalizationMethod="softmax" numberOfNeurons="2">
+<Neuron bias="0.0857397613409563" id="34">
+<Con from="31" weight="1.16487853245677"/>
+<Con from="32" weight="-0.766800162790437"/>
+<Con from="33" weight="-1.15495527923771"/>
+</Neuron>
+<Neuron bias="0.00699489891383497" id="35">
+<Con from="31" weight="-1.16138001850674"/>
+<Con from="32" weight="0.567709792114888"/>
+<Con from="33" weight="1.08726929353282"/>
+</Neuron>
+</NeuralLayer><NeuralOutputs>
+<NeuralOutput outputNeuron="34">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="diagnosisValue0"/>
+</DerivedField>
+</NeuralOutput>
+<NeuralOutput outputNeuron="35">
+<DerivedField dataType="double" optype="continuous">
+<FieldRef field="diagnosisValue1"/>
+</DerivedField>
+</NeuralOutput>
+</NeuralOutputs></NeuralNetwork></PMML>

@@ -1,0 +1,9 @@
+{
+    "description": "Tumor Malignancy Classifiation with XGBoost",
+    "modelVersion": 1,
+    "modifiedAt": 1551353761158,
+    "modifiedBy": "999",
+    "performanceMetrics": {
+        "accuracy": 0.955
+    }
+}

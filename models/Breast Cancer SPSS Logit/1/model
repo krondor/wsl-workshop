@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><PMML xmlns="http://www.dmg.org/PMML-4_3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3" xsi:schemaLocation="http://www.dmg.org/PMML-4_3 pmml-4-3.xsd">
+	<Header copyright="(C) Copyright IBM Corp. 1989, 2017.">
+		<Application name="IBM SPSS Statistics 25.0" version="25.0.0.0"/>
+	</Header>
+	<DataDictionary numberOfFields="32">
+		<DataField dataType="string" displayName="diagnosis" name="diagnosis" optype="categorical">
+			<Extension extender="spss.com" name="format" value="1"/>
+			<Extension extender="spss.com" name="width" value="1"/>
+			<Extension extender="spss.com" name="decimals" value="0"/>
+			<Value displayValue="B" property="valid" value="B"/>
+			<Value displayValue="M" property="valid" value="M"/>
+		</DataField>
+		<DataField dataType="double" displayName="id_transformed" name="id_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="radius_mean_transformed" name="radius_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="texture_mean_transformed" name="texture_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="perimeter_mean_transformed" name="perimeter_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="area_mean_transformed" name="area_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="smoothness_mean_transformed" name="smoothness_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="compactness_mean_transformed" name="compactness_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="concavity_mean_transformed" name="concavity_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="concave_points_mean_transformed" name="concave_points_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="symmetry_mean_transformed" name="symmetry_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="fractal_dimension_mean_transformed" name="fractal_dimension_mean_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="radius_se_transformed" name="radius_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="texture_se_transformed" name="texture_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="perimeter_se_transformed" name="perimeter_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="area_se_transformed" name="area_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="smoothness_se_transformed" name="smoothness_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="compactness_se_transformed" name="compactness_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="concavity_se_transformed" name="concavity_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="concave_points_se_transformed" name="concave_points_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="symmetry_se_transformed" name="symmetry_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="fractal_dimension_se_transformed" name="fractal_dimension_se_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="radius_worst_transformed" name="radius_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="texture_worst_transformed" name="texture_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="perimeter_worst_transformed" name="perimeter_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="area_worst_transformed" name="area_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="smoothness_worst_transformed" name="smoothness_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="compactness_worst_transformed" name="compactness_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="concavity_worst_transformed" name="concavity_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="concave_points_worst_transformed" name="concave_points_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="symmetry_worst_transformed" name="symmetry_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+		<DataField dataType="double" displayName="fractal_dimension_worst_transformed" name="fractal_dimension_worst_transformed" optype="continuous">
+			<Extension extender="spss.com" name="format" value="5"/>
+			<Extension extender="spss.com" name="width" value="10"/>
+			<Extension extender="spss.com" name="decimals" value="3"/>
+		</DataField>
+	</DataDictionary>
+	<GeneralRegressionModel algorithmName="multinomialLogistic" functionName="classification" modelType="multinomialLogistic" targetVariableName="diagnosis">
+		<Extension extender="spss.com" name="numberParameters" value="32"/>
+		<MiningSchema>
+			<MiningField missingValueTreatment="asIs" name="diagnosis" usageType="predicted"/>
+			<MiningField missingValueTreatment="asIs" name="id_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="radius_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="texture_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="perimeter_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="area_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="smoothness_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="compactness_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="concavity_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="concave_points_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="symmetry_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="fractal_dimension_mean_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="radius_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="texture_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="perimeter_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="area_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="smoothness_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="compactness_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="concavity_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="concave_points_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="symmetry_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="fractal_dimension_se_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="radius_worst_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="texture_worst_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="perimeter_worst_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="area_worst_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="smoothness_worst_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="compactness_worst_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="concavity_worst_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="concave_points_worst_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="symmetry_worst_transformed" usageType="active"/>
+			<MiningField missingValueTreatment="asIs" name="fractal_dimension_worst_transformed" usageType="active"/>
+		</MiningSchema>
+		<ParameterList>
+			<Parameter label="Intercept" name="P0000001"/>
+			<Parameter label="id_transformed" name="P0000002"/>
+			<Parameter label="radius_mean_transformed" name="P0000003"/>
+			<Parameter label="texture_mean_transformed" name="P0000004"/>
+			<Parameter label="perimeter_mean_transformed" name="P0000005"/>
+			<Parameter label="area_mean_transformed" name="P0000006"/>
+			<Parameter label="smoothness_mean_transformed" name="P0000007"/>
+			<Parameter label="compactness_mean_transformed" name="P0000008"/>
+			<Parameter label="concavity_mean_transformed" name="P0000009"/>
+			<Parameter label="concave_points_mean_transformed" name="P0000010"/>
+			<Parameter label="symmetry_mean_transformed" name="P0000011"/>
+			<Parameter label="fractal_dimension_mean_transformed" name="P0000012"/>
+			<Parameter label="radius_se_transformed" name="P0000013"/>
+			<Parameter label="texture_se_transformed" name="P0000014"/>
+			<Parameter label="perimeter_se_transformed" name="P0000015"/>
+			<Parameter label="area_se_transformed" name="P0000016"/>
+			<Parameter label="smoothness_se_transformed" name="P0000017"/>
+			<Parameter label="compactness_se_transformed" name="P0000018"/>
+			<Parameter label="concavity_se_transformed" name="P0000019"/>
+			<Parameter label="concave_points_se_transformed" name="P0000020"/>
+			<Parameter label="symmetry_se_transformed" name="P0000021"/>
+			<Parameter label="fractal_dimension_se_transformed" name="P0000022"/>
+			<Parameter label="radius_worst_transformed" name="P0000023"/>
+			<Parameter label="texture_worst_transformed" name="P0000024"/>
+			<Parameter label="perimeter_worst_transformed" name="P0000025"/>
+			<Parameter label="area_worst_transformed" name="P0000026"/>
+			<Parameter label="smoothness_worst_transformed" name="P0000027"/>
+			<Parameter label="compactness_worst_transformed" name="P0000028"/>
+			<Parameter label="concavity_worst_transformed" name="P0000029"/>
+			<Parameter label="concave_points_worst_transformed" name="P0000030"/>
+			<Parameter label="symmetry_worst_transformed" name="P0000031"/>
+			<Parameter label="fractal_dimension_worst_transformed" name="P0000032"/>
+		</ParameterList>
+		<FactorList>
+		</FactorList>
+		<CovariateList>
+			<Predictor name="id_transformed"/>
+			<Predictor name="radius_mean_transformed"/>
+			<Predictor name="texture_mean_transformed"/>
+			<Predictor name="perimeter_mean_transformed"/>
+			<Predictor name="area_mean_transformed"/>
+			<Predictor name="smoothness_mean_transformed"/>
+			<Predictor name="compactness_mean_transformed"/>
+			<Predictor name="concavity_mean_transformed"/>
+			<Predictor name="concave_points_mean_transformed"/>
+			<Predictor name="symmetry_mean_transformed"/>
+			<Predictor name="fractal_dimension_mean_transformed"/>
+			<Predictor name="radius_se_transformed"/>
+			<Predictor name="texture_se_transformed"/>
+			<Predictor name="perimeter_se_transformed"/>
+			<Predictor name="area_se_transformed"/>
+			<Predictor name="smoothness_se_transformed"/>
+			<Predictor name="compactness_se_transformed"/>
+			<Predictor name="concavity_se_transformed"/>
+			<Predictor name="concave_points_se_transformed"/>
+			<Predictor name="symmetry_se_transformed"/>
+			<Predictor name="fractal_dimension_se_transformed"/>
+			<Predictor name="radius_worst_transformed"/>
+			<Predictor name="texture_worst_transformed"/>
+			<Predictor name="perimeter_worst_transformed"/>
+			<Predictor name="area_worst_transformed"/>
+			<Predictor name="smoothness_worst_transformed"/>
+			<Predictor name="compactness_worst_transformed"/>
+			<Predictor name="concavity_worst_transformed"/>
+			<Predictor name="concave_points_worst_transformed"/>
+			<Predictor name="symmetry_worst_transformed"/>
+			<Predictor name="fractal_dimension_worst_transformed"/>
+		</CovariateList>
+		<PPMatrix>
+			<PPCell parameterName="P0000002" predictorName="id_transformed" value="1"/>
+			<PPCell parameterName="P0000003" predictorName="radius_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000004" predictorName="texture_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000005" predictorName="perimeter_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000006" predictorName="area_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000007" predictorName="smoothness_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000008" predictorName="compactness_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000009" predictorName="concavity_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000010" predictorName="concave_points_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000011" predictorName="symmetry_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000012" predictorName="fractal_dimension_mean_transformed" value="1"/>
+			<PPCell parameterName="P0000013" predictorName="radius_se_transformed" value="1"/>
+			<PPCell parameterName="P0000014" predictorName="texture_se_transformed" value="1"/>
+			<PPCell parameterName="P0000015" predictorName="perimeter_se_transformed" value="1"/>
+			<PPCell parameterName="P0000016" predictorName="area_se_transformed" value="1"/>
+			<PPCell parameterName="P0000017" predictorName="smoothness_se_transformed" value="1"/>
+			<PPCell parameterName="P0000018" predictorName="compactness_se_transformed" value="1"/>
+			<PPCell parameterName="P0000019" predictorName="concavity_se_transformed" value="1"/>
+			<PPCell parameterName="P0000020" predictorName="concave_points_se_transformed" value="1"/>
+			<PPCell parameterName="P0000021" predictorName="symmetry_se_transformed" value="1"/>
+			<PPCell parameterName="P0000022" predictorName="fractal_dimension_se_transformed" value="1"/>
+			<PPCell parameterName="P0000023" predictorName="radius_worst_transformed" value="1"/>
+			<PPCell parameterName="P0000024" predictorName="texture_worst_transformed" value="1"/>
+			<PPCell parameterName="P0000025" predictorName="perimeter_worst_transformed" value="1"/>
+			<PPCell parameterName="P0000026" predictorName="area_worst_transformed" value="1"/>
+			<PPCell parameterName="P0000027" predictorName="smoothness_worst_transformed" value="1"/>
+			<PPCell parameterName="P0000028" predictorName="compactness_worst_transformed" value="1"/>
+			<PPCell parameterName="P0000029" predictorName="concavity_worst_transformed" value="1"/>
+			<PPCell parameterName="P0000030" predictorName="concave_points_worst_transformed" value="1"/>
+			<PPCell parameterName="P0000031" predictorName="symmetry_worst_transformed" value="1"/>
+			<PPCell parameterName="P0000032" predictorName="fractal_dimension_worst_transformed" value="1"/>
+		</PPMatrix>
+		<ParamMatrix>
+			<PCell beta="-24.8509528991685" df="1" parameterName="P0000001" targetCategory="M"/>
+			<PCell beta="-14.4804854955704" df="1" parameterName="P0000002" targetCategory="M"/>
+			<PCell beta="251.675818074551" df="1" parameterName="P0000003" targetCategory="M"/>
+			<PCell beta="28.631627626678" df="1" parameterName="P0000004" targetCategory="M"/>
+			<PCell beta="-206.238301732134" df="1" parameterName="P0000005" targetCategory="M"/>
+			<PCell beta="-57.657761313409" df="1" parameterName="P0000006" targetCategory="M"/>
+			<PCell beta="-44.6001317045998" df="1" parameterName="P0000007" targetCategory="M"/>
+			<PCell beta="-28.3492152162379" df="1" parameterName="P0000008" targetCategory="M"/>
+			<PCell beta="77.420306435866" df="1" parameterName="P0000009" targetCategory="M"/>
+			<PCell beta="49.2525876083377" df="1" parameterName="P0000010" targetCategory="M"/>
+			<PCell beta="-0.0601622393610843" df="1" parameterName="P0000011" targetCategory="M"/>
+			<PCell beta="15.9134433381895" df="1" parameterName="P0000012" targetCategory="M"/>
+			<PCell beta="-85.9156770748711" df="1" parameterName="P0000013" targetCategory="M"/>
+			<PCell beta="-17.3051161103963" df="1" parameterName="P0000014" targetCategory="M"/>
+			<PCell beta="18.880856339817" df="1" parameterName="P0000015" targetCategory="M"/>
+			<PCell beta="292.815140689318" df="1" parameterName="P0000016" targetCategory="M"/>
+			<PCell beta="-45.9995089769201" df="1" parameterName="P0000017" targetCategory="M"/>
+			<PCell beta="-65.665161031066" df="1" parameterName="P0000018" targetCategory="M"/>
+			<PCell beta="4.03408687652734" df="1" parameterName="P0000019" targetCategory="M"/>
+			<PCell beta="60.7348567540544" df="1" parameterName="P0000020" targetCategory="M"/>
+			<PCell beta="-18.2740352486283" df="1" parameterName="P0000021" targetCategory="M"/>
+			<PCell beta="-65.0719509324878" df="1" parameterName="P0000022" targetCategory="M"/>
+			<PCell beta="94.7536714745919" df="1" parameterName="P0000023" targetCategory="M"/>
+			<PCell beta="33.6715874220066" df="1" parameterName="P0000024" targetCategory="M"/>
+			<PCell beta="256.777957943893" df="1" parameterName="P0000025" targetCategory="M"/>
+			<PCell beta="-447.665310905793" df="1" parameterName="P0000026" targetCategory="M"/>
+			<PCell beta="56.7489538602188" df="1" parameterName="P0000027" targetCategory="M"/>
+			<PCell beta="-33.0630725970133" df="1" parameterName="P0000028" targetCategory="M"/>
+			<PCell beta="-15.3700341093927" df="1" parameterName="P0000029" targetCategory="M"/>
+			<PCell beta="38.7431785499944" df="1" parameterName="P0000030" targetCategory="M"/>
+			<PCell beta="31.910836295507" df="1" parameterName="P0000031" targetCategory="M"/>
+			<PCell beta="42.0427514313311" df="1" parameterName="P0000032" targetCategory="M"/>
+		</ParamMatrix>
+	</GeneralRegressionModel>
+</PMML>

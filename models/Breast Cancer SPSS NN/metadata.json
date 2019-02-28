@@ -1,0 +1,14 @@
+{
+    "id": 1551356820603,
+    "name": "Breast Cancer SPSS NN",
+    "latestModelVersion": 1,
+    "author": "999",
+    "createdAt": 1551356820603,
+    "filename": "import",
+    "type": "pmml-model-3.0",
+    "serialization": "pmml",
+    "params": {},
+    "publishedBy": "",
+    "isPublished": false,
+    "publishedModelVersion": -1
+}

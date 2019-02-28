@@ -1,0 +1,150 @@
+{
+    "id": 1551356930486,
+    "name": "Breast Cancer SPSS Logit",
+    "latestModelVersion": 1,
+    "runtime": "SPSS PMML Scoring Engine",
+    "author": "999",
+    "createdAt": 1551356930486,
+    "filename": "import",
+    "features": [
+        {
+            "name": "id_transformed",
+            "type": "double"
+        },
+        {
+            "name": "radius_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "texture_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "perimeter_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "area_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "smoothness_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "compactness_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "concavity_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "concave_points_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "symmetry_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "fractal_dimension_mean_transformed",
+            "type": "double"
+        },
+        {
+            "name": "radius_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "texture_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "perimeter_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "area_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "smoothness_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "compactness_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "concavity_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "concave_points_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "symmetry_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "fractal_dimension_se_transformed",
+            "type": "double"
+        },
+        {
+            "name": "radius_worst_transformed",
+            "type": "double"
+        },
+        {
+            "name": "texture_worst_transformed",
+            "type": "double"
+        },
+        {
+            "name": "perimeter_worst_transformed",
+            "type": "double"
+        },
+        {
+            "name": "area_worst_transformed",
+            "type": "double"
+        },
+        {
+            "name": "smoothness_worst_transformed",
+            "type": "double"
+        },
+        {
+            "name": "compactness_worst_transformed",
+            "type": "double"
+        },
+        {
+            "name": "concavity_worst_transformed",
+            "type": "double"
+        },
+        {
+            "name": "concave_points_worst_transformed",
+            "type": "double"
+        },
+        {
+            "name": "symmetry_worst_transformed",
+            "type": "double"
+        },
+        {
+            "name": "fractal_dimension_worst_transformed",
+            "type": "double"
+        }
+    ],
+    "labelColumns": [
+        {
+            "name": "diagnosis",
+            "type": "string"
+        }
+    ],
+    "type": "pmml-model-3.0",
+    "serialization": "pmml",
+    "learningType": "Supervised",
+    "algorithm": "GeneralRegressionModel",
+    "algorithmType": "Classification",
+    "params": {},
+    "publishedBy": "",
+    "isPublished": false,
+    "publishedModelVersion": -1
+}

@@ -1,10 +1,1 @@
-{
-  "metadata": {
-    "guid": "Breast Cancer Data ETL"
-  },
-  "entity": {
-    "name": "Breast Cancer Data ETL",
-    "description": "ETL Breast Cancer Data Visually",
-    "runtime": "spss-modeler"
-  }
-}
+{"metadata":{"guid":"Breast Cancer Data ETL","created_at":"Thu Feb 28 11:29:55 UTC 2019","updated_at":"Thu Feb 28 11:29:55 UTC 2019"},"entity":{"name":"Breast Cancer Data ETL","description":"","runtime":"spss-modeler","projectGuid":"wsl-workshop"}}

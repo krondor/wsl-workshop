@@ -1,10 +1,1 @@
-{
-  "metadata": {
-    "guid": "Breast Cancer Malignancy"
-  },
-  "entity": {
-    "name": "Breast Cancer Malignancy",
-    "description": "",
-    "runtime": "spss-modeler"
-  }
-}
+{"metadata":{"guid":"Breast Cancer Malignancy","created_at":"Thu Feb 28 12:19:37 UTC 2019","updated_at":"Thu Feb 28 12:28:24 UTC 2019"},"entity":{"name":"Breast Cancer Malignancy","description":"","runtime":"spss-modeler","projectGuid":"wsl-workshop"}}
