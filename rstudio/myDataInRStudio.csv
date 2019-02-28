@@ -1,0 +1,1101 @@
+claim_id,customer_id,age,gender,incident_cause,days_to_incident,claim_area,police_report,claim_type,claim_amount,total_policy_claims
+28015402,54800078,68,"Female","Crime",1464,"Home","No","Material only",2484.000000,5
+86926208,95328288,22,"Female","Other causes",360,"Auto","Yes","Material and injury",24170.000000,1
+14338044,5555352,64,"Male","Other driver error",7923,"Auto","No","Material and injury",28080.000000,1
+58917605,28053392,66,"Female","Natural causes",9002,"Auto","No","Material only",1490.000000,1
+24253422,93064729,77,"Female","Other causes",2275,"Home","No","Material only",1334.000000,1
+81081567,17327539,39,"Female","Other causes",1118,"Auto","Unknown","Material only",2970.000000,1
+65416119,24086991,76,"Female","Driver error",13081,"Auto","No","Material only",1750.000000,1
+78456517,40950341,76,"Male","Other driver error",5866,"Auto","No","Material only",2440.000000,3
+456118,22329968,55,"Male","Other driver error",3428,"Auto","Yes","Material and injury",29170.000000,1
+49161591,14302229,33,"Female","Natural causes",1346,"Auto","No","Material only",3036.000000,1
+90360377,66420655,54,"Male","Natural causes",1446,"Auto","No","Material only",2420.000000,1
+97161487,70620240,22,"Male","Other driver error",8,"Auto","Yes","Injury only",25360.000000,4
+6001575,71115799,40,"Female","Other causes",621,"Auto","No","Material only",2060.000000,1
+82875291,29963623,74,"Male","Other driver error",10327,"Auto","No","Material only",1874.500000,1
+1975759,53419245,73,"Female","Other causes",8546,"Auto","No","Material and injury",19220.000000,1
+52676096,52828606,67,"Male","Driver error",3782,"Auto","No","Material only",2240.000000,1
+89295359,65337622,49,"Female","Other driver error",4974,"Auto","Unknown","Injury only",23440.000000,1
+49708874,25430017,55,"Male","Other causes",8630,"Auto","No","Material and injury",22140.000000,1
+506917,50160433,72,"Female","Natural causes",7199,"Auto","Unknown","Material only",2860.000000,2
+1737487,53378300,42,"Male","Other driver error",388,"Auto","Unknown","Material only",1817.000000,4
+92562630,5376495,72,"Female","Natural causes",8237,"Auto","No","Material and injury",31150.000000,1
+33971290,58935729,57,"Male","Other causes",10723,"Auto","Yes","Material and injury",39860.000000,1
+79168864,49296192,42,"Male","Driver error",1989,"Auto","No","Material only",2280.000000,1
+90352660,90066017,21,"Female","Natural causes",3,"Auto","Unknown","Injury only",36770.000000,1
+66286525,36882366,50,"Male","Driver error",3442,"Auto","No","Material only",2990.000000,1
+71634831,25852762,60,"Male","Other causes",3832,"Auto","No","Material only",1860.000000,3
+17001019,39095425,70,"Female","Other causes",4928,"Auto","No","Material only",2010.000000,1
+13251820,41258816,76,"Female","Other causes",3440,"Auto","No","Material and injury",33097.000000,1
+18032157,21848615,28,"Male","Other causes",1434,"Auto","No","Material only",2120.000000,1
+91340659,53306402,57,"Male","Other causes",3716,"Home","No","Material only",1870.000000,1
+92352474,36322294,51,"Female","Crime",5577,"Auto","Yes","Material only",1640.000000,3
+9694310,36396357,21,"Male","Other causes",5,"Auto","Unknown","Material only",1600.000000,1
+93226946,59114950,70,"Male","Natural causes",6791,"Auto","No","Material only",1040.000000,1
+68186325,61386837,26,"Male","Crime",343,"Home","No","Material only",1520.000000,1
+29409264,94696944,41,"Female","Other causes",2018,"Auto","Yes","Injury only",18210.000000,1
+96764357,42096031,35,"Male","Driver error",1818,"Auto","No","Material only",2360.000000,1
+96390033,45740736,52,"Male","Natural causes",946,"Auto","Yes","Material and injury",17830.000000,1
+51854489,86805301,20,"Male","Driver error",2,"Auto","No","Material only",1437.500000,1
+37106547,25823247,40,"Female","Other driver error",2377,"Auto","No","Injury only",16157.500000,4
+35254345,99095020,19,"Male","Other causes",6,"Auto","No","Injury only",38970.000000,5
+39203644,31764936,66,"Male","Other causes",4433,"Auto","Unknown","Material only",2817.500000,1
+59777328,38422949,61,"Female","Other causes",3501,"Auto","No","Injury only",29474.500000,3
+28355155,67584085,41,"Female","Driver error",4006,"Auto","No","Material and injury",41216.000000,3
+34078665,41700611,62,"Male","Driver error",9664,"Auto","Unknown","Material and injury",27460.000000,1
+43586115,68414646,46,"Male","Other driver error",602,"Auto","Yes","Material and injury",30940.000000,4
+97574618,21689548,54,"Female","Crime",2660,"Auto","Unknown","Material only",1640.000000,1
+66985984,4791672,41,"Male","Natural causes",2507,"Auto","No","Material only",2210.000000,1
+28691623,54748638,79,"Male","Other causes",8810,"Auto","Yes","Injury only",23390.000000,1
+24934984,7629204,38,"Male","Crime",2105,"Auto","No","Material only",1580.000000,1
+30003623,56894914,78,"Male","Driver error",12524,"Auto","Unknown","Injury only",14300.000000,1
+42961290,99900191,20,"Male","Driver error",6,"Auto","No","Material only",1400.000000,1
+14732846,47733950,32,"Female","Driver error",1855,"Home","No","Material only",2630.000000,1
+34749865,65415692,68,"Male","Driver error",8776,"Auto","Unknown","Material only",3162.500000,1
+58315572,48524495,46,"Female","Other driver error",2738,"Auto","Unknown","Injury only",15360.000000,1
+30030548,64476976,52,"Female","Driver error",6681,"Auto","Yes","Material only",2970.000000,1
+12810453,67219332,37,"Male","Other driver error",1161,"Auto","Unknown","Material only",2886.500000,1
+56330915,1137730,37,"Female","Other causes",2459,"Auto","Yes","Injury only",16830.000000,1
+82927612,45175773,27,"Male","Other causes",290,"Auto","Yes","Material and injury",44125.500000,1
+56423444,28589281,77,"Female","Driver error",2203,"Auto","Unknown","Material and injury",33680.000000,1
+68531571,41917021,24,"Male","Driver error",443,"Auto","Yes","Material and injury",18300.000000,4
+42199013,21948955,61,"Male","Natural causes",1056,"Auto","No","Material only",1410.000000,1
+24363870,68049900,59,"Female","Crime",2568,"Auto","No","Material only",2450.000000,1
+28227741,65851369,73,"Female","Other causes",12622,"Auto","No","Material only",1530.000000,1
+76237328,38240278,19,"Female","Natural causes",6,"Auto","No","Material only",1161.500000,1
+91829731,14104349,58,"Female","Other causes",5902,"Auto","No","Material only",1590.000000,1
+83247162,76408874,19,"Male","Other causes",3,"Auto","No","Material only",1930.000000,1
+96869705,40377375,64,"Female","Other causes",782,"Auto","Unknown","Material only",2870.000000,1
+93737306,15739763,42,"Female","Other causes",309,"Auto","No","Material only",2770.000000,1
+61506950,45662976,19,"Male","Driver error",5,"Auto","No","Material and injury",21890.000000,1
+92144070,4063386,56,"Male","Other causes",2206,"Auto","Unknown","Material and injury",24930.000000,1
+55287151,23121617,22,"Female","Other driver error",594,"Auto","No","Material and injury",19895.000000,1
+33469345,71044597,53,"Male","Other causes",1432,"Auto","Unknown","Material only",2220.000000,3
+52726494,71314961,47,"Male","Other causes",6661,"Auto","Unknown","Material and injury",16997.000000,3
+51224728,39741752,36,"Male","Driver error",2494,"Auto","Unknown","Material and injury",39620.000000,1
+20979480,87074504,36,"Male","Driver error",1892,"Auto","Unknown","Material only",1270.000000,1
+16728111,12310872,26,"Female","Natural causes",1378,"Auto","No","Material only",2250.000000,1
+13192611,33953274,26,"Male","Driver error",1232,"Auto","No","Material and injury",29190.000000,1
+75458309,24559894,24,"Female","Natural causes",148,"Auto","No","Material only",1850.000000,1
+68054035,21661469,43,"Female","Crime",2550,"Auto","Yes","Material and injury",17400.000000,1
+35760249,96305798,51,"Female","Crime",1277,"Auto","No","Material only",1460.000000,2
+11285823,1456247,50,"Female","Other causes",845,"Auto","Unknown","Injury only",21760.000000,1
+27476001,25290735,55,"Female","Other causes",1734,"Auto","No","Material only",1450.000000,1
+60820587,79445391,64,"Female","Other causes",7399,"Auto","Unknown","Injury only",36620.000000,1
+75406959,58808328,60,"Male","Driver error",9200,"Auto","Yes","Material only",1170.000000,1
+81293827,33695662,74,"Female","Natural causes",7151,"Home","No","Material only",2150.000000,1
+95032892,51774660,73,"Male","Other causes",7681,"Auto","No","Material only",1860.000000,2
+33128480,76476493,23,"Female","Other causes",1163,"Auto","No","Material only",2070.000000,1
+79850779,32317319,26,"Female","Other driver error",206,"Auto","No","Material and injury",39847.500000,1
+13890592,28522202,30,"Female","Other driver error",161,"Auto","Unknown","Material only",2940.000000,1
+7390390,96282151,53,"Female","Driver error",2112,"Auto","No","Material and injury",35937.500000,4
+60693347,20109606,72,"Female","Natural causes",11027,"Auto","Unknown","Injury only",35950.000000,1
+27810597,81604211,49,"Male","Crime",3049,"Auto","No","Material only",2610.500000,1
+70462450,29857753,58,"Male","Other causes",1835,"Home","No","Material only",2640.000000,1
+29543164,51417657,40,"Male","Other causes",61,"Auto","No","Injury only",29280.000000,1
+63920434,56435820,76,"Female","Driver error",7798,"Auto","No","Material only",2490.000000,1
+48183545,60214197,58,"Male","Other causes",148,"Auto","Unknown","Material only",2930.000000,1
+62940953,97805909,30,"Male","Other causes",1262,"Auto","No","Material only",1120.000000,1
+76469945,4614428,45,"Male","Driver error",1962,"Auto","Yes","Injury only",26560.000000,1
+13034676,20738646,33,"Female","Other causes",1311,"Auto","Unknown","Material and injury",30348.500000,1
+65779871,79850783,67,"Male","Other driver error",8783,"Auto","Unknown","Material only",1978.000000,2
+25420768,25311916,26,"Male","Other causes",1818,"Home","Unknown","Material only",1656.000000,1
+52336092,35145229,46,"Female","Other driver error",1356,"Auto","No","Material only",2910.000000,1
+10427195,75569674,59,"Female","Other causes",3235,"Auto","Unknown","Material and injury",24560.000000,1
+55538658,12476828,63,"Male","Driver error",2048,"Auto","No","Injury only",26780.000000,1
+8611701,1171764,45,"Male","Other causes",4014,"Auto","Yes","Material and injury",34450.000000,1
+84969150,74254928,50,"Female","Other causes",1219,"Auto","Unknown","Material and injury",34051.500000,4
+15764366,5107684,40,"Male","Natural causes",2346,"Home","No","Material only",2967.000000,1
+84469008,97423918,31,"Male","Other causes",96,"Auto","No","Material only",2875.000000,1
+3794840,15541351,25,"Male","Natural causes",396,"Auto","No","Material only",2200.000000,1
+21305400,92884551,39,"Male","Other causes",2377,"Auto","No","Material only",2840.000000,1
+49356365,63148586,33,"Female","Other driver error",1890,"Auto","Unknown","Material only",2484.000000,1
+87613266,470587,71,"Female","Natural causes",7360,"Auto","No","Material only",2173.500000,4
+11723844,20675760,34,"Female","Other causes",520,"Auto","Yes","Injury only",38680.000000,1
+16485397,89606116,34,"Male","Other driver error",781,"Auto","No","Material only",2450.000000,1
+40592766,33219632,36,"Male","Natural causes",2321,"Auto","No","Material only",1730.000000,1
+53606236,5490285,53,"Male","Driver error",5119,"Auto","No","Injury only",14990.000000,1
+63674121,54432457,66,"Male","Driver error",4733,"Auto","No","Material only",1900.000000,3
+92880325,56404861,38,"Female","Other driver error",635,"Auto","No","Material only",1150.000000,4
+9076039,67648180,40,"Female","Crime",512,"Auto","Yes","Material only",2850.000000,1
+55511468,3780764,76,"Female","Driver error",9968,"Auto","No","Material only",2950.000000,1
+3843202,55436104,24,"Female","Other causes",173,"Auto","No","Material only",1130.000000,1
+36680208,25556773,21,"Female","Natural causes",8,"Auto","No","Material only",1541.000000,2
+64685276,4248401,45,"Female","Crime",2952,"Auto","No","Material only",2130.000000,1
+10345065,3815836,19,"Female","Other causes",5,"Auto","Unknown","Material and injury",30600.000000,1
+99293517,71510146,18,"Female","Natural causes",6,"Auto","No","Material only",2960.000000,1
+37229737,15746364,18,"Female","Driver error",5,"Auto","No","Material only",2691.000000,1
+21410294,8443611,49,"Female","Other driver error",3260,"Auto","Unknown","Injury only",18490.000000,1
+70934170,79118524,52,"Female","Other causes",5283,"Auto","No","Injury only",30690.000000,1
+71733594,19105619,48,"Female","Natural causes",2704,"Auto","Yes","Material only",1370.000000,1
+54181957,16003388,77,"Male","Other driver error",1557,"Auto","No","Material and injury",42860.500000,1
+27561525,41478568,30,"Female","Other causes",1624,"Auto","No","Material only",1790.000000,1
+73817255,35009712,76,"Female","Other driver error",8812,"Auto","No","Material only",1300.000000,1
+63875965,10865298,54,"Female","Other causes",5785,"Auto","Unknown","Material and injury",16767.000000,1
+29934494,34179503,26,"Male","Other causes",1732,"Auto","No","Material only",1500.000000,2
+76214705,17887662,35,"Female","Natural causes",2790,"Home","No","Material only",2860.000000,3
+13829031,46114728,43,"Male","Crime",3671,"Home","No","Material only",2970.000000,1
+98755539,19994427,54,"Male","Natural causes",2454,"Auto","Yes","Material and injury",33180.000000,1
+92954504,41662493,47,"Female","Other causes",857,"Auto","No","Material only",1490.000000,1
+43446276,84855637,46,"Female","Driver error",6235,"Auto","No","Material and injury",26220.000000,1
+95175251,34131745,34,"Male","Other causes",1690,"Auto","No","Material and injury",28200.000000,3
+64725516,25911713,23,"Female","Other driver error",275,"Auto","No","Material only",2480.000000,1
+35539692,26891570,34,"Male","Driver error",688,"Auto","No","Material only",1020.000000,1
+37767190,58298255,57,"Female","Other causes",616,"Auto","No","Material and injury",34090.000000,4
+11972929,27811476,22,"Male","Driver error",2,"Home","No","Material only",1932.000000,1
+83941251,45091805,25,"Female","Other causes",4,"Auto","Yes","Injury only",37352.000000,1
+17350408,64440598,36,"Male","Other driver error",1378,"Auto","No","Material only",1030.000000,2
+72153559,38431977,54,"Female","Crime",1247,"Auto","No","Injury only",14110.000000,1
+73281948,79239510,78,"Female","Driver error",18532,"Auto","No","Material only",1930.000000,3
+49883104,41471906,36,"Female","Crime",1621,"Auto","No","Injury only",38590.000000,1
+13316016,20184613,78,"Male","Driver error",2424,"Auto","Yes","Material and injury",41520.000000,1
+96547348,26560972,43,"Male","Other driver error",2055,"Auto","Unknown","Material and injury",38100.000000,1
+86780275,35876901,48,"Male","Crime",3931,"Auto","Yes","Injury only",24127.000000,1
+20775126,17673051,51,"Male","Other causes",4126,"Auto","Yes","Material only",2860.000000,1
+35493887,2054161,62,"Male","Other driver error",300,"Auto","Unknown","Material only",2900.000000,1
+77776277,19116315,62,"Male","Natural causes",6383,"Auto","No","Material only",1140.000000,1
+81956481,16538013,29,"Female","Natural causes",190,"Auto","No","Material only",1980.000000,1
+70417328,82644650,24,"Male","Driver error",3,"Auto","No","Injury only",38950.500000,1
+61100711,25867636,72,"Female","Other causes",8000,"Auto","Unknown","Injury only",36500.000000,3
+20108503,22558177,61,"Female","Other driver error",9433,"Auto","Unknown","Material only",2100.000000,1
+4909238,36099247,54,"Male","Other driver error",1189,"Auto","No","Material and injury",17370.000000,1
+5208813,53089588,62,"Male","Driver error",3599,"Auto","No","Material and injury",19470.000000,1
+86010595,48203850,23,"Male","Other driver error",35,"Auto","Yes","Material and injury",20890.000000,1
+37731871,64156678,70,"Male","Driver error",8569,"Auto","Yes","Material only",1790.000000,1
+81891685,86211790,77,"Male","Driver error",5688,"Auto","No","Material only",3162.500000,1
+88494493,97178562,54,"Male","Other causes",6608,"Auto","Unknown","Material and injury",17779.000000,3
+58855291,34060140,65,"Male","Natural causes",810,"Auto","Unknown","Material only",1472.000000,1
+66472334,66807643,76,"Male","Other driver error",7784,"Auto","Unknown","Material only",2540.000000,1
+34059166,19882233,35,"Female","Natural causes",1422,"Auto","No","Material only",1750.000000,1
+54577535,19003525,57,"Female","Natural causes",3052,"Auto","Yes","Material and injury",41730.000000,1
+63355032,53039586,57,"Male","Other driver error",3392,"Home","No","Material only",1730.000000,1
+5766862,8136965,18,"Female","Other driver error",5,"Auto","No","Material and injury",31190.000000,1
+55544034,9279760,25,"Female","Other causes",673,"Auto","Yes","Injury only",35330.000000,1
+87250677,42050019,55,"Female","Driver error",1707,"Auto","No","Material and injury",23333.500000,1
+93926136,6954068,65,"Male","Other causes",2454,"Auto","No","Material only",2200.000000,1
+67042564,78635550,54,"Male","Driver error",6171,"Auto","Unknown","Material and injury",34190.000000,1
+88951155,69176364,18,"Female","Driver error",7,"Auto","No","Material only",2886.500000,1
+68850165,7604596,42,"Male","Other driver error",2475,"Auto","No","Material only",1320.000000,1
+41831627,29557659,54,"Male","Natural causes",7906,"Auto","Yes","Injury only",36470.000000,1
+34763908,16217478,74,"Male","Driver error",1088,"Auto","No","Material and injury",38070.000000,5
+40709631,16656985,48,"Female","Natural causes",1332,"Auto","Unknown","Material only",2510.000000,1
+79387776,89697588,39,"Male","Other driver error",1277,"Auto","Yes","Material and injury",14230.000000,1
+48456469,60461126,60,"Female","Other driver error",1186,"Auto","Yes","Material and injury",35080.000000,1
+99016882,60737796,22,"Female","Driver error",543,"Auto","Unknown","Material only",1900.000000,1
+88264398,33025818,53,"Male","Other causes",3504,"Auto","Unknown","Injury only",38100.000000,1
+28560393,5394016,49,"Male","Natural causes",2418,"Auto","No","Material only",2650.000000,1
+7066159,36927012,52,"Female","Other causes",1528,"Auto","Unknown","Injury only",16420.000000,1
+44860716,85490162,64,"Male","Other causes",7105,"Auto","Unknown","Injury only",28820.000000,1
+32321767,93102434,18,"Male","Other causes",3,"Auto","No","Material only",3231.500000,1
+30806212,8561719,31,"Female","Other driver error",609,"Auto","Unknown","Material and injury",31060.000000,3
+36304713,74237502,23,"Female","Crime",48,"Auto","No","Material only",3001.500000,1
+37146049,35291249,59,"Female","Other causes",1507,"Auto","No","Material and injury",14660.000000,1
+93092382,63988035,20,"Female","Natural causes",6,"Auto","Yes","Injury only",31728.500000,1
+30605224,62388986,30,"Female","Other driver error",837,"Auto","Yes","Material and injury",40810.000000,1
+92163858,41976794,36,"Female","Other driver error",989,"Auto","No","Material only",2300.000000,1
+71704799,10719512,28,"Male","Driver error",994,"Home","Unknown","Material only",2800.000000,1
+6068166,73917857,37,"Male","Other causes",2143,"Auto","Unknown","Injury only",21740.000000,2
+16284982,51220742,18,"Female","Driver error",2,"Auto","Yes","Injury only",26185.500000,1
+79947442,67407967,30,"Male","Other causes",2544,"Auto","Unknown","Injury only",16880.000000,1
+1896618,58605378,74,"Male","Other causes",5468,"Auto","No","Material only",1040.000000,2
+5770333,76979302,46,"Female","Natural causes",240,"Auto","No","Injury only",21150.000000,1
+67471861,12186892,76,"Male","Driver error",7449,"Auto","No","Material only",3116.500000,1
+67708914,94366091,65,"Female","Other driver error",8193,"Auto","No","Material only",1010.000000,1
+75564476,50267021,66,"Male","Other driver error",7251,"Auto","No","Material only",2880.000000,1
+94546953,179545,28,"Male","Other causes",805,"Auto","Unknown","Material and injury",41101.000000,1
+94086673,86485572,40,"Female","Other driver error",4503,"Auto","Unknown","Material only",1530.000000,1
+37716367,32122461,51,"Male","Driver error",1706,"Auto","No","Material only",2580.000000,1
+42019203,76289677,45,"Male","Natural causes",1429,"Home","No","Material only",1782.500000,6
+85447088,69648063,64,"Female","Other causes",2800,"Auto","Yes","Material and injury",21827.000000,3
+7940301,40730410,45,"Female","Crime",5181,"Auto","No","Injury only",32280.500000,1
+41456443,21099119,73,"Female","Other causes",9600,"Auto","Unknown","Material and injury",44436.000000,4
+60413227,37804807,25,"Male","Driver error",583,"Auto","No","Material and injury",35170.000000,2
+263365,50096559,76,"Male","Driver error",8347,"Auto","No","Material only",1400.000000,1
+62041588,53522261,69,"Female","Natural causes",2904,"Auto","Unknown","Material only",2750.000000,3
+84010370,24476711,24,"Female","Driver error",319,"Auto","Unknown","Material only",1495.000000,1
+29062661,25696834,55,"Male","Other causes",5136,"Auto","No","Material only",1090.000000,1
+55839723,94349108,39,"Male","Other causes",7,"Auto","Yes","Material and injury",44091.000000,2
+9241691,57528537,45,"Male","Natural causes",3321,"Auto","No","Material only",2170.000000,1
+27356367,25078890,47,"Male","Crime",3725,"Auto","Unknown","Material and injury",38250.000000,1
+30840217,20154653,76,"Female","Other causes",8944,"Auto","Yes","Material and injury",47897.500000,3
+61131098,764973,23,"Female","Natural causes",29,"Auto","No","Injury only",22149.000000,1
+61090307,90469538,60,"Male","Driver error",6550,"Auto","No","Material and injury",19193.500000,1
+25217169,3284614,18,"Male","Driver error",3,"Auto","No","Material only",2910.000000,1
+17970864,13518314,35,"Female","Driver error",8,"Auto","Unknown","Material only",1790.000000,1
+17599850,89572982,18,"Male","Other causes",6,"Auto","Unknown","Material only",2461.000000,1
+74150517,32851298,28,"Male","Driver error",715,"Auto","Unknown","Material only",1170.000000,1
+64239055,91867606,33,"Male","Driver error",1884,"Auto","No","Material only",2518.500000,1
+96995794,1134334,76,"Male","Crime",4448,"Home","No","Material only",1770.000000,3
+78303237,85116707,70,"Male","Other driver error",2704,"Auto","Unknown","Material only",1900.000000,1
+95589943,44289660,28,"Male","Driver error",1243,"Auto","Unknown","Injury only",38470.000000,1
+56959902,52170226,63,"Male","Driver error",8329,"Auto","Unknown","Material and injury",22250.000000,1
+64052934,40007391,47,"Female","Other causes",4764,"Auto","No","Material only",2420.000000,1
+77444235,42683276,69,"Male","Driver error",2697,"Auto","Unknown","Material and injury",42642.000000,1
+47372246,36423839,54,"Female","Natural causes",6786,"Auto","Yes","Material and injury",18170.000000,4
+50773309,89196199,46,"Male","Other causes",7814,"Auto","Yes","Injury only",34080.000000,3
+49832894,51084263,63,"Female","Natural causes",3872,"Home","Yes","Material and injury",33100.000000,1
+39701338,89826545,53,"Female","Driver error",2968,"Auto","No","Material only",2323.000000,2
+16742423,99193800,36,"Male","Other causes",397,"Auto","Unknown","Injury only",35972.000000,1
+42868609,15714019,59,"Male","Other causes",2625,"Home","No","Material only",1740.000000,1
+66814289,22550947,64,"Female","Other driver error",4646,"Auto","No","Material only",2340.000000,3
+31601037,3006881,78,"Female","Natural causes",6583,"Auto","Unknown","Material only",1190.000000,1
+76657892,3519965,30,"Male","Other causes",696,"Auto","Unknown","Material and injury",16540.000000,1
+23932050,33958241,44,"Male","Other causes",1459,"Auto","Unknown","Material only",2990.000000,1
+66018431,10013059,27,"Male","Driver error",16,"Auto","Unknown","Material and injury",40610.000000,1
+5889538,66196649,27,"Male","Driver error",1192,"Auto","Unknown","Material only",1710.000000,1
+56207978,50570913,46,"Male","Driver error",887,"Auto","No","Material only",2420.000000,2
+5112438,34473226,63,"Female","Other causes",3638,"Auto","No","Injury only",13670.000000,1
+73140860,19904870,73,"Male","Driver error",4879,"Auto","No","Material only",2500.000000,3
+72929108,65177029,33,"Female","Driver error",2521,"Auto","Yes","Material and injury",43527.500000,3
+81195391,94686467,43,"Male","Other causes",2332,"Auto","Yes","Material and injury",40770.000000,1
+88423441,49442439,34,"Male","Other causes",950,"Auto","Yes","Injury only",27335.500000,1
+95970512,98432595,25,"Male","Driver error",847,"Auto","No","Material only",2290.000000,1
+25617489,63601109,44,"Female","Other driver error",5470,"Auto","No","Material only",2320.000000,1
+8024994,34958295,53,"Female","Other causes",8533,"Auto","Unknown","Material only",1340.000000,1
+70792156,15986499,34,"Female","Other causes",377,"Auto","No","Material only",1943.500000,3
+63762676,69722524,43,"Male","Other driver error",1861,"Auto","No","Material only",2070.000000,1
+67216694,16653089,34,"Male","Other causes",2130,"Auto","No","Material only",1310.000000,3
+12776002,31738264,47,"Male","Natural causes",1141,"Auto","No","Material only",1345.500000,1
+62758935,53133240,56,"Male","Driver error",5381,"Auto","No","Material only",2650.000000,1
+59311690,54753665,22,"Female","Driver error",5,"Auto","Unknown","Injury only",15300.000000,3
+8298002,63594311,37,"Male","Other driver error",2805,"Auto","No","Material and injury",43366.500000,1
+80154089,82524863,75,"Female","Other causes",7326,"Auto","No","Material only",1207.500000,7
+15991674,76245260,72,"Female","Other causes",5969,"Auto","Unknown","Material and injury",19900.000000,1
+82256321,68346509,68,"Male","Driver error",581,"Auto","No","Material only",2450.000000,1
+15520727,74507757,73,"Female","Natural causes",12831,"Auto","Unknown","Material only",2060.000000,2
+40584930,93973045,68,"Female","Natural causes",6839,"Auto","Unknown","Material only",2020.000000,2
+45421446,58905772,43,"Male","Other driver error",1502,"Auto","Unknown","Injury only",24240.000000,4
+12759886,53640125,75,"Female","Natural causes",10364,"Auto","Unknown","Material only",1400.000000,1
+16659298,65839941,68,"Male","Natural causes",1902,"Home","No","Material only",2310.000000,1
+77349776,28495036,37,"Male","Natural causes",1742,"Auto","Unknown","Injury only",21190.000000,1
+42662572,91314778,22,"Female","Other driver error",86,"Auto","Unknown","Material only",3174.000000,1
+45604906,56752117,63,"Male","Other causes",10410,"Auto","Yes","Material and injury",32980.000000,1
+27926389,333295,45,"Male","Other driver error",2439,"Auto","No","Material only",1000.000000,1
+93913403,54829126,18,"Female","Driver error",5,"Auto","No","Material and injury",24800.000000,1
+74882513,72789513,37,"Male","Driver error",1316,"Auto","Unknown","Injury only",29350.000000,2
+57179715,99477791,50,"Male","Other causes",4436,"Auto","Unknown","Material and injury",43723.000000,1
+52944445,12060749,79,"Female","Natural causes",8209,"Auto","Unknown","Material only",2270.000000,1
+12562756,17135569,20,"Male","Driver error",5,"Auto","No","Material only",2668.000000,1
+43851085,32537939,37,"Female","Other driver error",1554,"Auto","No","Material only",2270.000000,1
+39971403,69878269,50,"Male","Other driver error",6394,"Auto","Yes","Material and injury",30440.000000,2
+16893927,26023851,23,"Male","Driver error",508,"Auto","Unknown","Material and injury",16320.000000,1
+23594412,35459715,46,"Female","Other causes",3423,"Auto","No","Material only",3300.500000,3
+14309401,16130066,75,"Female","Other causes",9544,"Home","No","Material and injury",37410.000000,1
+94432639,90410317,24,"Male","Crime",386,"Auto","No","Material only",2461.000000,3
+85627549,36886230,78,"Female","Driver error",3422,"Auto","No","Material only",1470.000000,1
+40141971,15804272,59,"Female","Other driver error",3082,"Auto","Unknown","Material only",2630.000000,1
+22893907,65238369,60,"Male","Other causes",5540,"Auto","Unknown","Material only",1400.000000,1
+63988938,88394234,26,"Male","Driver error",202,"Auto","No","Material only",2810.000000,2
+85226488,59547179,59,"Female","Other causes",4636,"Auto","No","Material only",1552.500000,4
+44923638,69021234,25,"Male","Driver error",403,"Auto","No","Injury only",34790.000000,1
+85136881,50087943,41,"Male","Crime",3362,"Auto","No","Material only",2173.500000,1
+52962580,14880167,52,"Female","Natural causes",4367,"Auto","Yes","Material and injury",26350.000000,4
+20331019,21202494,66,"Male","Other driver error",8848,"Auto","No","Material only",1650.000000,1
+80804451,90120289,19,"Male","Other driver error",6,"Home","No","Material only",2380.500000,3
+30582900,93637326,26,"Female","Natural causes",314,"Auto","Yes","Injury only",41296.500000,3
+18199048,99020332,19,"Female","Driver error",4,"Home","Yes","Material only",2360.000000,1
+31349814,73517054,25,"Male","Other driver error",261,"Auto","Unknown","Material and injury",31980.000000,1
+35464950,1769490,47,"Male","Driver error",893,"Auto","No","Material and injury",39750.000000,1
+45952452,25715140,67,"Female","Other driver error",3099,"Auto","No","Material only",1810.000000,2
+13646842,84915620,18,"Female","Natural causes",5,"Auto","No","Material only",1598.500000,1
+35597728,63667171,59,"Female","Natural causes",8471,"Auto","No","Material only",2920.000000,1
+19497745,58855523,50,"Male","Natural causes",542,"Auto","Unknown","Material only",2810.000000,1
+57181654,70862318,38,"Male","Driver error",2603,"Auto","Yes","Material and injury",38300.000000,2
+94478133,83094563,69,"Male","Crime",7692,"Auto","Unknown","Material only",1656.000000,3
+75008044,20362602,77,"Female","Other causes",4477,"Home","No","Material only",2162.000000,1
+56782245,97827663,74,"Female","Driver error",10659,"Auto","Unknown","Material only",2630.000000,4
+12300749,96223784,44,"Male","Other causes",1273,"Auto","Unknown","Material and injury",18837.000000,1
+18657412,5928516,48,"Female","Natural causes",788,"Auto","Yes","Material only",2650.000000,1
+56390124,4275024,70,"Male","Driver error",9263,"Auto","Unknown","Material only",3369.500000,1
+47809088,9067121,29,"Female","Driver error",651,"Auto","Unknown","Material only",2829.000000,1
+68941343,60125813,28,"Female","Crime",533,"Auto","No","Material only",2410.000000,1
+64673393,40516033,49,"Female","Other driver error",2116,"Auto","Yes","Material and injury",34510.000000,1
+63750904,71222401,42,"Male","Driver error",1818,"Auto","No","Material only",1690.000000,3
+71436417,81457416,33,"Male","Driver error",1328,"Auto","Unknown","Material only",1630.000000,1
+16393700,92874600,19,"Female","Driver error",7,"Auto","Yes","Injury only",24322.500000,1
+25948027,28101214,18,"Male","Other causes",2,"Auto","Unknown","Material only",1184.500000,1
+34569805,49869909,34,"Male","Crime",959,"Auto","No","Material only",1880.000000,2
+58462908,70348604,63,"Female","Driver error",8,"Auto","No","Material only",3036.000000,1
+45330583,76440220,31,"Female","Crime",887,"Auto","Unknown","Material only",1160.000000,1
+83127717,6037262,50,"Male","Other causes",3663,"Auto","Yes","Injury only",38020.000000,2
+94216560,38777365,66,"Male","Other causes",6132,"Auto","No","Material only",1230.000000,1
+9292322,67845956,42,"Female","Other driver error",1748,"Auto","No","Material only",3070.500000,5
+73893541,94438379,56,"Female","Other causes",1488,"Auto","No","Material only",1780.000000,1
+35191424,72340465,57,"Female","Other driver error",4445,"Auto","Unknown","Material only",2000.000000,2
+10776845,16455130,66,"Female","Natural causes",3832,"Auto","Yes","Injury only",32190.000000,1
+46016087,13043990,71,"Female","Crime",7800,"Auto","Unknown","Injury only",24290.000000,1
+60308432,18041536,21,"Female","Other driver error",315,"Auto","Unknown","Material only",3312.000000,1
+85785079,57295957,33,"Male","Crime",1485,"Auto","No","Material only",2760.000000,1
+23602626,90808870,18,"Female","Other driver error",3,"Home","Unknown","Material only",1800.000000,1
+79421460,86007887,36,"Male","Crime",1069,"Auto","No","Material only",2250.000000,1
+85070964,69566424,22,"Female","Driver error",5,"Auto","Yes","Material only",2770.000000,1
+42089852,80293529,33,"Female","Natural causes",1778,"Auto","No","Material only",1540.000000,1
+78237677,68149712,22,"Female","Crime",5,"Auto","Yes","Injury only",31303.000000,1
+28958293,66539277,70,"Female","Crime",3280,"Auto","No","Material only",2620.000000,1
+97400493,62229278,59,"Female","Other driver error",1494,"Home","Unknown","Material and injury",17400.000000,1
+21115748,52656470,55,"Female","Other driver error",4929,"Auto","No","Material only",2090.000000,1
+35441424,77365640,66,"Male","Driver error",10075,"Auto","No","Material only",1190.000000,2
+25316656,92973635,70,"Male","Driver error",6444,"Auto","No","Material only",2590.000000,1
+88188187,8530851,75,"Female","Driver error",9478,"Auto","No","Material only",1340.000000,1
+57412670,93930377,64,"Female","Crime",6750,"Auto","Yes","Injury only",17890.000000,1
+71818063,19015404,34,"Male","Crime",541,"Home","No","Material only",2290.000000,1
+6113940,84773637,42,"Female","Other causes",2525,"Auto","Unknown","Material only",1368.500000,1
+38140329,89725370,30,"Female","Other causes",855,"Auto","Unknown","Material only",1590.000000,1
+63634063,31378056,58,"Female","Other driver error",6206,"Auto","Unknown","Material only",1170.000000,1
+54588415,66391840,39,"Male","Other causes",2079,"Auto","Unknown","Material and injury",29390.000000,1
+27788165,40104904,23,"Female","Natural causes",2,"Auto","No","Material only",1552.500000,1
+23839522,99148976,39,"Female","Natural causes",1585,"Auto","No","Injury only",32570.000000,1
+92535732,73569532,36,"Male","Other driver error",522,"Auto","Unknown","Material and injury",34569.000000,1
+29565633,50570570,24,"Female","Other causes",387,"Auto","No","Material only",2323.000000,1
+27742473,32005020,47,"Male","Crime",1525,"Auto","Unknown","Material only",3381.000000,1
+20745953,84987149,65,"Female","Crime",2065,"Auto","Unknown","Material only",1870.000000,1
+56305012,62144278,76,"Female","Other driver error",6467,"Auto","No","Injury only",31940.000000,1
+10916321,35211693,79,"Male","Driver error",3284,"Auto","Unknown","Material and injury",27790.000000,1
+23531036,50360858,66,"Female","Other driver error",4472,"Auto","No","Material only",2200.000000,1
+26953992,53285705,42,"Female","Other causes",4561,"Auto","Unknown","Material and injury",39663.500000,1
+94165282,25079043,51,"Male","Crime",3596,"Auto","No","Material only",1890.000000,1
+18275197,82318995,55,"Female","Other causes",3626,"Auto","Yes","Injury only",33880.000000,1
+26035860,50446391,30,"Male","Natural causes",383,"Auto","No","Material only",1830.000000,1
+23307908,85534853,74,"Female","Driver error",11173,"Auto","No","Material and injury",18060.000000,1
+72197015,26711743,71,"Male","Other driver error",1614,"Auto","No","Material and injury",26040.000000,1
+38405687,387452,29,"Female","Other causes",1148,"Auto","No","Material and injury",32234.500000,1
+46193107,73971937,77,"Male","Crime",9408,"Auto","No","Material only",1070.000000,1
+73129584,6732215,53,"Female","Natural causes",3286,"Auto","Unknown","Material only",2012.500000,2
+29472447,4248984,39,"Male","Other driver error",93,"Auto","No","Material and injury",32120.000000,1
+71730570,38636105,74,"Female","Natural causes",4927,"Home","Unknown","Material only",2334.500000,3
+5837542,22102249,25,"Male","Natural causes",232,"Auto","Unknown","Material only",1736.500000,1
+30639686,7269947,48,"Female","Other causes",5813,"Auto","No","Material and injury",44643.000000,6
+54054580,38198582,22,"Female","Other driver error",5,"Auto","No","Material only",1978.000000,3
+53455373,64959851,24,"Male","Other causes",415,"Auto","Unknown","Material and injury",26277.500000,2
+72697883,25120219,41,"Male","Other causes",2999,"Home","No","Material and injury",39882.000000,1
+69147052,57148144,48,"Male","Driver error",941,"Auto","Yes","Injury only",37080.000000,1
+94320896,84638745,46,"Male","Driver error",1278,"Auto","No","Injury only",39571.500000,1
+43005088,45835719,66,"Male","Other causes",2019,"Auto","Unknown","Material and injury",28991.500000,1
+32102747,98456001,23,"Female","Natural causes",87,"Auto","No","Material only",1610.000000,2
+30341046,37619136,54,"Male","Crime",5346,"Auto","No","Material only",2070.000000,1
+66145949,90136860,38,"Male","Natural causes",1872,"Auto","No","Material only",2630.000000,1
+94617557,2591515,27,"Female","Driver error",181,"Auto","No","Material only",2438.000000,1
+53975694,78180805,63,"Male","Other causes",7735,"Home","Yes","Material and injury",36041.000000,1
+35713312,5903431,67,"Male","Other driver error",2229,"Auto","No","Injury only",32770.000000,1
+76641727,45868860,68,"Female","Natural causes",476,"Auto","No","Material and injury",14490.000000,1
+73232967,74838726,31,"Female","Other driver error",847,"Auto","No","Material only",3208.500000,1
+6383913,35470518,26,"Male","Crime",24,"Auto","Yes","Material and injury",16020.000000,2
+89444820,96896790,74,"Male","Other driver error",7998,"Auto","Unknown","Injury only",14230.000000,1
+95945418,95175917,31,"Male","Driver error",433,"Auto","Unknown","Material only",2162.000000,1
+72173204,52286294,41,"Female","Other causes",1064,"Auto","No","Material and injury",27430.000000,1
+46064713,48670342,37,"Male","Driver error",370,"Home","No","Material only",1710.000000,1
+12344790,78278320,57,"Female","Other causes",2973,"Auto","No","Injury only",26450.000000,2
+17325023,47821305,64,"Female","Other causes",2265,"Home","Yes","Injury only",15900.000000,1
+20562687,59893824,48,"Male","Other causes",5487,"Auto","Unknown","Material only",3197.000000,4
+26332184,34897348,22,"Female","Driver error",60,"Auto","Unknown","Material only",1805.500000,1
+33510312,62254832,36,"Male","Other causes",2624,"Auto","Yes","Material only",1150.000000,1
+22679446,35634024,18,"Male","Other causes",7,"Auto","Yes","Injury only",23414.000000,1
+21452213,46741816,21,"Male","Other causes",4,"Auto","No","Injury only",35868.500000,1
+60158408,48568159,29,"Female","Other causes",265,"Auto","No","Material only",2047.000000,1
+3809203,77859429,66,"Male","Other causes",11856,"Auto","Unknown","Material and injury",26890.000000,1
+94574712,1384452,20,"Female","Driver error",204,"Auto","No","Material only",1930.000000,1
+78121412,18432924,41,"Female","Other causes",1560,"Auto","No","Material only",2449.500000,1
+97102505,52178300,74,"Female","Crime",769,"Auto","Yes","Injury only",37880.000000,5
+19584541,89632255,48,"Female","Other driver error",1716,"Auto","Yes","Material and injury",31970.000000,2
+83099488,91685121,76,"Male","Driver error",1742,"Home","Yes","Material and injury",27040.000000,1
+58816029,34849549,46,"Male","Other causes",1406,"Auto","Yes","Material and injury",47184.500000,3
+51859390,68186840,76,"Female","Driver error",7574,"Auto","No","Material only",1810.000000,4
+42132579,63625664,45,"Female","Natural causes",6946,"Auto","No","Material only",2260.000000,1
+17294524,22682005,18,"Female","Driver error",6,"Auto","No","Material only",2495.500000,1
+11360338,37126414,69,"Female","Other driver error",7564,"Auto","No","Material and injury",34940.000000,1
+27399637,73180070,41,"Male","Other driver error",4891,"Auto","Unknown","Material only",1520.000000,1
+13663148,183318,53,"Female","Other causes",3849,"Auto","No","Material and injury",24820.000000,2
+33115160,75270461,63,"Female","Crime",1245,"Auto","No","Material only",1020.000000,4
+3999209,48012648,36,"Male","Other causes",1079,"Auto","No","Material and injury",32090.000000,3
+34041666,8953248,21,"Female","Crime",5,"Auto","No","Material only",2449.500000,1
+80237295,26209365,31,"Male","Other driver error",446,"Auto","No","Material only",2050.000000,2
+89582128,35621517,48,"Male","Other driver error",2108,"Auto","No","Material only",2875.000000,1
+72590441,67119744,70,"Male","Driver error",8525,"Auto","Unknown","Material only",2230.000000,1
+49550912,93874247,34,"Male","Driver error",748,"Auto","No","Material only",2410.000000,3
+56606043,3670036,63,"Female","Crime",7931,"Auto","Unknown","Material only",1310.000000,1
+39910322,75396930,56,"Female","Natural causes",5209,"Auto","No","Material only",2570.000000,1
+6980713,75063064,70,"Female","Driver error",800,"Home","No","Material only",2720.000000,2
+25329805,40854816,49,"Female","Crime",4402,"Auto","Unknown","Injury only",30220.000000,1
+661287,87275129,29,"Female","Other causes",1337,"Auto","No","Material only",2750.000000,1
+49287549,35542930,49,"Female","Other causes",5086,"Auto","No","Material and injury",30940.000000,1
+69777115,25885403,49,"Male","Natural causes",2684,"Auto","No","Material only",2270.000000,1
+30208036,25679708,45,"Female","Other causes",5768,"Auto","Unknown","Material and injury",14430.000000,1
+56391353,43932960,37,"Male","Driver error",1381,"Auto","Unknown","Material only",1480.000000,1
+71213910,53156864,29,"Male","Crime",1405,"Home","No","Material only",2100.000000,1
+62209015,62307726,37,"Male","Crime",3033,"Auto","No","Material only",2250.000000,1
+83890631,12579921,33,"Male","Driver error",1623,"Auto","No","Material only",2310.000000,1
+97653545,35915494,49,"Female","Other driver error",2227,"Auto","No","Material only",2950.000000,1
+85844969,69772441,64,"Female","Other driver error",2056,"Auto","No","Injury only",27320.000000,1
+973213,44735031,50,"Male","Other driver error",2688,"Auto","No","Material only",2380.000000,1
+19854306,79000760,25,"Female","Driver error",549,"Home","No","Injury only",38400.000000,1
+32919722,33210906,59,"Male","Other causes",4853,"Auto","Unknown","Material only",1350.000000,2
+83587057,17018728,52,"Male","Other causes",553,"Auto","Unknown","Material only",1000.000000,1
+77862981,95815078,52,"Female","Other driver error",2452,"Auto","Yes","Material and injury",15000.000000,1
+80655571,6557086,26,"Male","Natural causes",7,"Auto","Unknown","Material only",1810.000000,1
+52442679,88603057,22,"Male","Other driver error",10,"Auto","No","Material only",2350.000000,2
+66205823,26829828,20,"Male","Driver error",5,"Auto","Unknown","Injury only",25150.500000,3
+75957171,31997460,48,"Male","Other driver error",1031,"Auto","No","Material and injury",21640.000000,1
+32540152,33243012,65,"Female","Other causes",2850,"Auto","Unknown","Injury only",23930.000000,1
+51312108,96105667,62,"Female","Other driver error",3089,"Home","Unknown","Injury only",36210.000000,1
+74296844,89856257,33,"Male","Driver error",416,"Auto","No","Material only",2670.000000,1
+7406237,69862885,71,"Male","Driver error",7915,"Home","No","Material only",2070.000000,1
+66184482,71301235,32,"Male","Driver error",1153,"Auto","No","Injury only",25920.000000,1
+36637162,17399866,38,"Female","Other driver error",1198,"Home","Unknown","Injury only",22880.000000,4
+95994847,97407889,66,"Female","Other causes",12104,"Auto","Unknown","Material only",1805.500000,1
+88458281,20248137,54,"Female","Driver error",3083,"Auto","Yes","Material and injury",15850.000000,1
+41024700,90218201,40,"Female","Other causes",1597,"Auto","Unknown","Material and injury",37760.000000,1
+3708958,23853016,63,"Male","Other driver error",1597,"Auto","Unknown","Material and injury",24020.000000,1
+22936334,92985862,39,"Male","Crime",2249,"Auto","No","Material only",2900.000000,1
+89465652,76192131,77,"Male","Driver error",5252,"Auto","No","Material and injury",26200.000000,2
+36078462,55636792,75,"Female","Driver error",3313,"Auto","Unknown","Material only",2840.000000,1
+65239872,25362775,54,"Female","Natural causes",3099,"Auto","No","Material only",2633.500000,2
+53151708,81131196,74,"Male","Other causes",3486,"Auto","Yes","Material only",1210.000000,3
+18275672,83341512,46,"Male","Other driver error",4,"Auto","Unknown","Material and injury",22471.000000,4
+42270097,8110021,28,"Male","Crime",462,"Auto","Unknown","Material only",1000.000000,1
+96593069,32669964,61,"Male","Other causes",8343,"Auto","No","Material only",2967.000000,1
+47277852,79834155,34,"Male","Other driver error",1049,"Home","Yes","Injury only",22720.000000,2
+38935613,34915691,49,"Female","Other causes",4,"Home","No","Material only",3151.000000,1
+46620181,14227878,73,"Female","Natural causes",4715,"Home","No","Material only",2670.000000,1
+7725860,24651642,32,"Female","Other causes",905,"Home","No","Injury only",29808.000000,1
+49093153,88290428,39,"Male","Driver error",1394,"Auto","No","Material only",1390.000000,1
+80699239,69296291,65,"Male","Other driver error",3567,"Auto","No","Material only",1050.000000,2
+94045025,91513918,19,"Male","Driver error",8,"Auto","Unknown","Material and injury",38789.500000,1
+44210014,94778765,59,"Male","Other driver error",1077,"Auto","Unknown","Injury only",16146.000000,2
+59888644,79416192,44,"Female","Other causes",369,"Auto","No","Material only",2231.000000,3
+20316073,57044129,47,"Male","Natural causes",1571,"Auto","No","Material only",2130.000000,4
+1265991,40710951,73,"Male","Driver error",4946,"Auto","Unknown","Material and injury",34710.000000,1
+91192176,66226946,18,"Female","Other driver error",6,"Auto","Unknown","Injury only",35719.000000,1
+45228139,84608946,53,"Male","Crime",1291,"Auto","Unknown","Material only",1020.000000,3
+88543784,93318843,72,"Male","Other driver error",1041,"Auto","Unknown","Injury only",15559.500000,4
+1780291,46252396,58,"Female","Other causes",6993,"Auto","No","Material and injury",23020.000000,4
+42304125,18963673,51,"Female","Natural causes",3602,"Home","No","Material only",1150.000000,4
+98351209,61265179,45,"Female","Other driver error",2306,"Auto","Unknown","Injury only",29280.000000,1
+7083756,39125379,20,"Female","Other causes",118,"Auto","No","Material only",2190.000000,1
+65487953,65218045,60,"Male","Other causes",3364,"Auto","No","Material and injury",27036.500000,1
+24027090,63956756,70,"Female","Other driver error",2529,"Auto","No","Material only",1800.000000,1
+39601240,25640079,62,"Male","Other causes",1226,"Auto","Unknown","Injury only",43010.000000,4
+51799772,45798162,79,"Female","Driver error",4107,"Auto","Yes","Material and injury",15570.000000,1
+91343716,79530105,48,"Female","Other causes",2702,"Auto","Unknown","Material and injury",44206.000000,1
+17068647,24336956,69,"Female","Driver error",3371,"Auto","No","Material only",2110.000000,1
+51551851,78351601,26,"Male","Driver error",1112,"Auto","No","Material only",2560.000000,1
+74205987,96829434,65,"Female","Other causes",4765,"Auto","Unknown","Material and injury",20750.000000,4
+61256790,29477670,60,"Male","Other driver error",5664,"Auto","No","Material only",2350.000000,1
+19809871,77223844,46,"Male","Other causes",5614,"Auto","Yes","Injury only",21080.000000,1
+22859605,21274288,45,"Male","Natural causes",3364,"Auto","Yes","Injury only",27140.000000,2
+42370219,32661067,25,"Female","Natural causes",7,"Auto","No","Material only",1184.500000,1
+92945709,46720940,44,"Female","Natural causes",4,"Auto","Unknown","Injury only",35390.000000,1
+17148980,71648628,29,"Female","Other causes",466,"Auto","Yes","Material only",2880.000000,1
+92246383,98863632,62,"Female","Driver error",8160,"Auto","No","Material and injury",30390.000000,1
+22996012,92437071,29,"Male","Other causes",257,"Auto","Yes","Injury only",28290.000000,1
+66880013,90710268,44,"Male","Other causes",1303,"Auto","Unknown","Material only",1340.000000,3
+60760453,50367171,44,"Female","Natural causes",2675,"Auto","No","Material only",2587.500000,3
+77781146,46222040,55,"Male","Other causes",2700,"Auto","No","Material only",2350.000000,1
+87638532,5610021,74,"Male","Natural causes",3751,"Auto","No","Material only",2270.000000,1
+13062022,47775511,65,"Female","Natural causes",4013,"Auto","Unknown","Material only",3082.000000,1
+81965024,10612761,72,"Female","Other causes",5721,"Auto","No","Material only",1650.000000,2
+3608650,20363247,47,"Male","Other causes",2166,"Auto","Yes","Material only",2000.000000,1
+50753158,91799445,31,"Male","Other causes",1349,"Auto","Yes","Material and injury",39880.000000,1
+30359351,38438698,42,"Female","Other driver error",1802,"Home","Unknown","Injury only",38970.000000,1
+96723932,89662862,48,"Female","Driver error",3661,"Home","No","Material and injury",24115.500000,1
+3501031,13892380,71,"Male","Other driver error",4995,"Auto","No","Injury only",16250.000000,2
+35492130,18522821,27,"Female","Other causes",1106,"Auto","Unknown","Material and injury",38110.000000,1
+70517334,57317327,23,"Female","Other driver error",501,"Auto","Unknown","Injury only",26956.000000,1
+14151128,35418186,45,"Male","Other causes",1358,"Auto","No","Material only",1880.000000,1
+76216291,7922010,74,"Male","Driver error",11251,"Auto","Yes","Material and injury",16440.000000,4
+48204136,95972614,71,"Male","Other causes",10472,"Home","No","Material only",1180.000000,1
+82295951,46596705,68,"Female","Driver error",6854,"Auto","Yes","Injury only",18330.000000,1
+80628173,95003650,73,"Female","Other causes",11286,"Auto","No","Material only",1140.000000,1
+65776194,93128778,52,"Female","Other causes",279,"Auto","Unknown","Material only",2910.000000,4
+18702079,67907848,75,"Female","Other causes",5829,"Auto","Yes","Injury only",23850.000000,2
+22472265,23543576,69,"Male","Driver error",4687,"Auto","No","Material only",2660.000000,3
+7517671,76733796,66,"Female","Driver error",1306,"Auto","No","Material and injury",40790.500000,2
+7530902,80055632,41,"Female","Other driver error",626,"Auto","Unknown","Injury only",16840.000000,1
+16559979,39844616,78,"Female","Driver error",8851,"Home","Unknown","Material only",1110.000000,1
+56536353,62236567,60,"Female","Driver error",1401,"Auto","No","Material only",1930.000000,3
+33597456,98753795,39,"Female","Other driver error",4713,"Auto","Unknown","Material and injury",32579.500000,2
+18783859,92576284,28,"Male","Driver error",619,"Auto","Yes","Material and injury",34550.000000,1
+97765994,3888335,55,"Male","Driver error",2744,"Auto","Yes","Injury only",13800.000000,1
+8656108,40184084,70,"Male","Natural causes",3844,"Auto","No","Material only",1450.000000,1
+67019360,92537989,51,"Female","Other driver error",1096,"Auto","Yes","Material and injury",36910.000000,3
+54682217,49159617,37,"Male","Driver error",1038,"Auto","Unknown","Material and injury",35430.000000,1
+51960505,19146001,60,"Female","Other causes",2941,"Home","No","Material only",1030.000000,1
+96478681,33751119,25,"Female","Driver error",763,"Auto","No","Material only",1030.000000,1
+78946267,51992542,43,"Male","Other driver error",1003,"Auto","Yes","Material and injury",30840.000000,3
+42395107,85182117,46,"Female","Other causes",1132,"Auto","No","Material and injury",14220.000000,1
+579423,89738814,40,"Male","Other driver error",2122,"Auto","No","Material only",2540.000000,1
+76639687,31929044,66,"Female","Other driver error",7510,"Auto","Unknown","Material and injury",21980.000000,1
+47987834,66668735,67,"Female","Other causes",7913,"Auto","No","Material only",1780.000000,1
+23892406,88452797,21,"Male","Natural causes",6,"Auto","Unknown","Material only",1150.000000,1
+37493305,28687548,34,"Female","Other driver error",2742,"Auto","Unknown","Material only",2790.000000,4
+42479407,87857630,37,"Female","Other causes",2245,"Auto","No","Material only",1240.000000,1
+30881577,92698814,21,"Male","Driver error",101,"Auto","Unknown","Material only",2587.500000,1
+70478858,84696768,61,"Female","Other causes",3880,"Auto","No","Material only",2254.000000,3
+94844486,42824620,78,"Male","Driver error",3328,"Auto","Yes","Injury only",35400.000000,1
+25961135,1777636,42,"Female","Other causes",1981,"Auto","No","Material only",2507.000000,1
+89860895,96022400,66,"Female","Other causes",4953,"Home","Unknown","Material only",2580.000000,1
+39088241,71758024,22,"Female","Crime",6,"Auto","No","Injury only",44539.500000,4
+73041139,35407590,79,"Female","Natural causes",5984,"Auto","No","Material only",1265.000000,1
+72425708,21726181,57,"Male","Driver error",3160,"Auto","Unknown","Material only",2980.000000,4
+21086918,6349479,39,"Male","Other driver error",404,"Auto","No","Material only",2390.000000,1
+30183764,24070600,51,"Female","Other driver error",6974,"Auto","Yes","Material and injury",29570.000000,4
+94019196,13555372,49,"Female","Other causes",2998,"Auto","No","Material and injury",39341.500000,2
+36904517,28972746,74,"Male","Other driver error",6183,"Auto","No","Material only",1391.500000,3
+20761148,60676895,74,"Male","Other driver error",8966,"Auto","No","Material only",1140.000000,1
+98195797,37527534,49,"Male","Other driver error",579,"Auto","Yes","Material and injury",35006.000000,1
+99697644,24366642,70,"Male","Other driver error",6446,"Auto","Yes","Material and injury",27460.000000,1
+92382666,66655386,32,"Female","Other causes",3099,"Auto","Yes","Injury only",38240.000000,1
+43248635,689424,23,"Female","Other driver error",307,"Home","No","Injury only",39571.500000,1
+18755716,6223170,37,"Female","Crime",4551,"Home","No","Material only",1630.000000,1
+38414403,46999596,25,"Male","Other causes",5,"Auto","Unknown","Material and injury",28428.000000,1
+4446447,33075449,68,"Female","Crime",3218,"Auto","No","Material only",2265.500000,1
+93866358,12282242,57,"Male","Other driver error",5730,"Auto","No","Material only",1794.000000,1
+14771954,95453437,31,"Male","Driver error",2469,"Auto","Unknown","Material and injury",19446.500000,1
+27311948,38990803,44,"Male","Other driver error",1649,"Auto","Yes","Injury only",13740.000000,1
+4611428,40790093,45,"Male","Other causes",2993,"Auto","Yes","Material only",1960.000000,1
+81038720,63556974,54,"Female","Natural causes",2350,"Auto","Unknown","Material only",2840.000000,1
+44680789,46697651,70,"Female","Natural causes",6139,"Home","No","Injury only",24480.000000,1
+67293713,19691493,57,"Male","Other causes",4862,"Auto","Unknown","Material only",2740.000000,4
+27992414,17878836,20,"Male","Other driver error",8,"Auto","Unknown","Injury only",36880.500000,1
+36793410,76730885,45,"Female","Other driver error",1399,"Auto","No","Material only",1240.000000,1
+99265162,60048536,49,"Female","Other driver error",2165,"Home","Unknown","Injury only",28630.000000,1
+96137478,95622681,30,"Male","Other causes",733,"Auto","Unknown","Material only",2470.000000,4
+58936433,45490433,63,"Female","Other causes",6724,"Home","Yes","Injury only",25310.000000,1
+4803636,23345320,34,"Female","Natural causes",2194,"Auto","Unknown","Material only",2564.500000,2
+14504411,75526967,52,"Female","Natural causes",65,"Auto","No","Material only",2346.000000,1
+96084838,6933169,44,"Male","Other driver error",941,"Auto","Unknown","Injury only",42481.000000,1
+65890405,54555185,59,"Female","Natural causes",8785,"Auto","No","Material only",1050.000000,1
+19388775,87721184,71,"Female","Driver error",474,"Auto","Unknown","Material only",1060.000000,1
+65788436,28151745,38,"Male","Other causes",1246,"Auto","No","Material only",1560.000000,1
+80936480,28276452,47,"Female","Other causes",1654,"Auto","No","Material only",2110.000000,5
+24034708,27050191,58,"Male","Other causes",4072,"Auto","No","Material only",2806.000000,1
+44980716,29213480,62,"Male","Driver error",494,"Auto","Unknown","Material only",2390.000000,1
+18123141,46279252,36,"Male","Natural causes",2411,"Auto","Unknown","Material only",2323.000000,3
+13245093,26206946,58,"Female","Driver error",6676,"Auto","No","Material and injury",38830.000000,1
+74461577,1473317,47,"Female","Other driver error",1169,"Auto","No","Material only",2840.000000,3
+202858,67380731,59,"Female","Other driver error",9341,"Auto","Unknown","Material only",1830.000000,1
+32046905,19116923,50,"Female","Driver error",1668,"Home","No","Material only",1897.500000,1
+74107605,594406,27,"Male","Other causes",564,"Auto","No","Material and injury",14500.000000,3
+70319190,54074997,74,"Male","Driver error",10768,"Auto","No","Material only",2110.000000,1
+77081718,920857,27,"Female","Other causes",308,"Auto","No","Material only",2950.000000,2
+79388921,98961331,28,"Female","Crime",1345,"Auto","Yes","Material only",2311.500000,1
+28125764,8874429,69,"Male","Driver error",5129,"Auto","Unknown","Material and injury",25190.000000,1
+79226537,84576819,45,"Female","Other causes",6744,"Auto","No","Injury only",19070.000000,3
+99882249,9489984,31,"Male","Other causes",568,"Auto","Unknown","Injury only",13020.000000,1
+73289452,41467679,32,"Male","Other driver error",491,"Auto","No","Injury only",41089.500000,3
+92660921,60486777,43,"Male","Other causes",4770,"Auto","No","Material only",2950.000000,1
+52793750,36534640,31,"Male","Other driver error",489,"Auto","No","Material only",1110.000000,1
+33733909,9670389,32,"Male","Natural causes",2542,"Auto","No","Material only",2390.000000,2
+50950234,34898778,63,"Female","Other driver error",8628,"Auto","Yes","Material only",1110.000000,1
+62646063,30969557,71,"Female","Other causes",534,"Auto","No","Material only",2360.000000,1
+71165733,64466005,35,"Female","Driver error",3332,"Auto","Yes","Injury only",29790.000000,1
+40395980,23781398,27,"Male","Driver error",1430,"Home","Yes","Material and injury",19980.000000,5
+53351584,32903028,28,"Male","Driver error",2270,"Auto","No","Material only",2830.000000,1
+91222804,98255071,35,"Male","Other driver error",463,"Auto","No","Material and injury",29670.000000,1
+24139441,57456862,69,"Male","Driver error",4979,"Auto","Yes","Material and injury",15480.000000,4
+82051783,85724226,23,"Female","Natural causes",763,"Auto","Unknown","Injury only",29880.000000,2
+56595082,53064334,39,"Male","Driver error",1532,"Auto","No","Material only",1410.000000,3
+85181232,28530676,65,"Male","Natural causes",9552,"Auto","Unknown","Injury only",35120.000000,1
+99218514,28354690,52,"Female","Other driver error",546,"Auto","Unknown","Injury only",27750.000000,1
+70957717,38625619,77,"Female","Other driver error",6196,"Auto","No","Injury only",37400.000000,1
+24612820,81120620,60,"Female","Natural causes",5059,"Auto","No","Material only",1800.000000,1
+27977045,70535303,28,"Female","Other causes",1226,"Auto","No","Material only",2230.000000,1
+54579649,42980672,42,"Female","Natural causes",428,"Auto","Yes","Injury only",23180.000000,4
+71586054,85371464,39,"Male","Natural causes",3052,"Auto","Unknown","Material only",2820.000000,1
+65139453,64853465,56,"Female","Natural causes",8223,"Auto","No","Material only",1230.000000,1
+26778043,26057315,76,"Male","Driver error",2609,"Auto","Unknown","Material and injury",41411.500000,2
+57747673,91388748,44,"Female","Other driver error",1944,"Auto","Yes","Material and injury",34090.000000,3
+51075098,21541216,72,"Male","Driver error",6172,"Auto","No","Material and injury",38170.000000,1
+95097622,6924653,30,"Female","Crime",1188,"Auto","No","Material only",2380.000000,4
+29672746,76480174,27,"Female","Natural causes",1087,"Auto","No","Material only",2870.000000,1
+68074441,92771974,24,"Male","Other causes",1348,"Auto","Unknown","Material only",1242.000000,1
+49795651,30056946,78,"Female","Crime",6865,"Home","No","Material only",2870.000000,1
+10158651,7110752,66,"Male","Other causes",1118,"Auto","Yes","Injury only",21712.000000,1
+79840486,37113398,33,"Female","Other causes",831,"Auto","Unknown","Material only",2507.000000,1
+16020445,95407661,42,"Female","Natural causes",1067,"Auto","Unknown","Material and injury",27496.500000,1
+93203131,30579788,21,"Male","Driver error",3,"Auto","No","Material and injury",24750.000000,1
+62716395,31916718,20,"Female","Driver error",74,"Auto","No","Injury only",28400.000000,1
+29319108,63917703,46,"Male","Crime",3247,"Auto","No","Material only",2771.500000,1
+52444177,43170044,56,"Male","Other driver error",3089,"Auto","Yes","Material only",2495.500000,1
+25174796,25187202,18,"Female","Natural causes",8,"Auto","Unknown","Material and injury",20941.500000,1
+23852627,42871560,23,"Female","Other causes",607,"Auto","No","Material only",1794.000000,1
+64705754,68534325,62,"Female","Other driver error",5905,"Auto","Yes","Material and injury",35610.000000,1
+53086060,55236756,18,"Male","Driver error",3,"Home","No","Material only",3323.500000,1
+65945836,64068270,44,"Female","Other driver error",2810,"Auto","Yes","Injury only",32370.000000,1
+50329290,22772348,56,"Female","Other driver error",913,"Auto","Unknown","Material and injury",17880.000000,1
+17309872,65933518,47,"Female","Other driver error",215,"Auto","Yes","Material and injury",35788.000000,1
+15069682,76511645,38,"Male","Driver error",1736,"Auto","No","Material and injury",40687.000000,3
+37113499,17429769,79,"Male","Driver error",4522,"Auto","No","Injury only",25290.000000,1
+33464166,87286300,51,"Female","Other driver error",3395,"Auto","Yes","Injury only",17620.000000,1
+71309318,17351921,52,"Female","Other causes",4794,"Auto","Yes","Material and injury",15100.000000,2
+49405215,33888509,66,"Male","Other causes",7720,"Auto","No","Material only",1680.000000,1
+31082271,94935213,52,"Male","Natural causes",806,"Auto","Unknown","Material and injury",15240.000000,1
+35516620,76685269,63,"Female","Natural causes",4259,"Auto","No","Material only",1780.000000,5
+74697703,13531100,78,"Male","Driver error",2060,"Auto","No","Material only",1370.000000,1
+50537242,86052767,44,"Female","Other causes",3666,"Auto","Unknown","Injury only",33936.500000,5
+10539884,24630627,48,"Male","Other causes",4825,"Auto","Unknown","Material and injury",37990.000000,2
+85857119,36071601,44,"Female","Crime",1993,"Auto","Unknown","Material only",2392.000000,1
+42962877,77880462,30,"Female","Natural causes",2283,"Auto","No","Material only",2310.000000,1
+83925316,76993423,66,"Male","Other causes",8757,"Auto","Yes","Material only",2970.000000,1
+80682804,95808379,31,"Male","Driver error",1370,"Auto","Unknown","Material only",2484.000000,2
+78930482,21155597,42,"Male","Other causes",703,"Home","Unknown","Material only",1030.000000,1
+87540468,9518939,57,"Female","Other driver error",4873,"Auto","Yes","Material and injury",37470.000000,1
+63962899,43635122,34,"Female","Other causes",1935,"Auto","Yes","Injury only",36270.000000,1
+18585413,40817819,32,"Female","Other causes",943,"Auto","Yes","Injury only",37080.000000,1
+50582170,13431627,61,"Male","Driver error",745,"Auto","No","Material only",1950.000000,4
+25814859,71228360,67,"Female","Crime",4680,"Auto","No","Material only",1960.000000,1
+32270508,47247478,59,"Female","Other driver error",5325,"Auto","Yes","Injury only",36930.000000,1
+5258848,22412690,19,"Female","Natural causes",8,"Home","Yes","Injury only",34410.000000,1
+13303697,14128928,64,"Male","Driver error",6854,"Auto","No","Material only",1495.000000,3
+26132816,71583608,35,"Female","Other causes",2060,"Home","Unknown","Material and injury",23471.500000,1
+58261796,94366484,24,"Male","Crime",135,"Auto","No","Material only",2770.000000,1
+65294327,8043901,77,"Male","Driver error",10590,"Auto","Yes","Material and injury",24860.000000,1
+33416129,43530901,58,"Male","Driver error",1407,"Auto","Unknown","Material and injury",31620.000000,1
+51073905,89892102,47,"Female","Other causes",3058,"Auto","No","Material only",1950.000000,2
+12054763,85836993,51,"Female","Crime",3640,"Auto","No","Material and injury",27450.000000,2
+36431036,80729251,64,"Female","Natural causes",6971,"Auto","Unknown","Material only",2180.000000,1
+1588021,26482333,61,"Male","Other driver error",4254,"Auto","Yes","Material and injury",24050.000000,4
+83038955,77560879,29,"Male","Driver error",797,"Auto","Yes","Injury only",28410.000000,1
+51758406,68154627,50,"Male","Driver error",1588,"Auto","Unknown","Injury only",20340.000000,1
+55008700,30002956,41,"Male","Other causes",2841,"Auto","No","Material only",3047.500000,1
+68388724,74618751,50,"Female","Other driver error",1944,"Auto","Unknown","Injury only",23023.000000,1
+40075827,47336212,40,"Male","Crime",819,"Home","No","Material only",2960.000000,1
+83589339,3364678,56,"Male","Other causes",4665,"Auto","No","Material only",1610.000000,1
+80428445,76538715,47,"Female","Other causes",2673,"Auto","No","Material and injury",40700.000000,1
+74774103,1541513,32,"Male","Other driver error",1151,"Auto","Unknown","Material only",2700.000000,2
+14774217,66167748,39,"Female","Other causes",3045,"Auto","No","Material only",1770.000000,1
+49962004,42888962,66,"Female","Other causes",2777,"Auto","Yes","Material and injury",22660.000000,1
+22730844,77958694,25,"Male","Other driver error",323,"Auto","Unknown","Material and injury",16380.000000,1
+62475078,20349939,22,"Male","Natural causes",8,"Auto","Unknown","Material only",2208.000000,1
+81346919,11901164,42,"Female","Other causes",429,"Auto","Unknown","Material only",2790.000000,1
+11335731,4823289,69,"Male","Other driver error",8595,"Auto","Unknown","Injury only",16670.000000,1
+114035,49341571,55,"Female","Other driver error",1359,"Auto","Yes","Injury only",33442.000000,1
+60619737,75673249,42,"Female","Other causes",1792,"Auto","No","Material only",2810.000000,1
+56205604,49322875,48,"Male","Other causes",3863,"Auto","No","Material only",2750.000000,1
+59766851,43497090,23,"Male","Crime",51,"Auto","Unknown","Material only",1403.000000,2
+24401844,21512179,20,"Female","Other driver error",3,"Auto","Unknown","Material and injury",20447.000000,1
+17224608,17043562,45,"Female","Other driver error",4021,"Auto","Unknown","Injury only",23630.000000,1
+5174457,75949833,31,"Male","Natural causes",931,"Home","Yes","Material and injury",37580.000000,1
+36554973,62533185,56,"Female","Other causes",3791,"Auto","Yes","Material and injury",44585.500000,7
+43464793,48849022,62,"Female","Other driver error",6075,"Auto","Unknown","Injury only",34937.000000,1
+17137675,42064244,28,"Female","Driver error",800,"Auto","Yes","Material and injury",38790.000000,1
+75847783,46607201,75,"Female","Other causes",8403,"Auto","No","Material only",2230.000000,1
+7312269,9864550,46,"Female","Other causes",2635,"Auto","Unknown","Material only",3369.500000,6
+64781005,16148126,43,"Male","Natural causes",2880,"Auto","No","Material only",3231.500000,2
+66424517,29251247,73,"Male","Driver error",5044,"Auto","No","Injury only",27690.000000,1
+95279488,10287036,25,"Male","Other driver error",1007,"Auto","No","Material only",2140.000000,1
+12005801,10684509,26,"Female","Other causes",2,"Auto","No","Injury only",38663.000000,4
+31352583,20047300,57,"Male","Driver error",2498,"Auto","No","Material only",1110.000000,3
+51159497,10297409,43,"Female","Other driver error",3275,"Auto","Yes","Material and injury",24790.000000,1
+57391844,94645079,44,"Female","Other causes",720,"Auto","No","Material only",2410.000000,1
+98869324,11689040,28,"Male","Driver error",172,"Auto","No","Material only",2160.000000,2
+15828920,80464339,77,"Female","Other driver error",8327,"Auto","No","Material only",1920.000000,3
+31925457,23954114,64,"Female","Other driver error",3035,"Auto","No","Injury only",34090.000000,1
+61366922,13157687,27,"Female","Other causes",216,"Auto","Yes","Material and injury",42366.000000,5
+49248298,24324432,57,"Female","Crime",829,"Auto","No","Material only",2650.000000,1
+49563502,40090512,40,"Female","Other causes",5108,"Home","No","Material only",2047.000000,2
+53668556,49976602,63,"Male","Driver error",6105,"Home","Yes","Material and injury",18840.000000,1
+43659552,30532046,21,"Male","Driver error",251,"Auto","Yes","Material and injury",31590.000000,3
+83514885,85021731,23,"Female","Other causes",324,"Auto","No","Material only",1930.000000,1
+82524058,88565341,32,"Male","Other driver error",40,"Auto","No","Material only",2310.000000,1
+15515336,53313889,29,"Female","Other causes",897,"Auto","No","Material only",2080.000000,1
+5147376,95286192,56,"Female","Other causes",6539,"Home","Unknown","Injury only",17664.000000,2
+72382115,61576233,64,"Female","Other causes",3611,"Auto","No","Material only",1219.000000,1
+12118214,1618514,28,"Male","Driver error",1371,"Auto","No","Material only",1240.000000,1
+40822158,24301445,19,"Female","Driver error",4,"Auto","No","Material only",1330.000000,1
+41151489,9733402,57,"Male","Other causes",3076,"Home","No","Material only",2110.000000,1
+4063409,2597854,33,"Male","Driver error",64,"Auto","No","Material only",2020.000000,1
+27490337,61320673,34,"Male","Other causes",1201,"Auto","Yes","Injury only",26960.000000,1
+9058778,48358246,56,"Male","Other causes",2266,"Auto","Yes","Material and injury",17250.000000,1
+25807332,22011795,75,"Female","Natural causes",8707,"Auto","Yes","Material and injury",27260.000000,2
+76074010,62796212,26,"Female","Other driver error",949,"Auto","No","Material only",2040.000000,6
+86899245,37983955,45,"Female","Other driver error",5390,"Auto","Unknown","Material only",2920.000000,1
+48546072,70656022,47,"Female","Other driver error",5648,"Auto","No","Material only",2560.000000,1
+3963498,7900224,61,"Female","Driver error",2300,"Auto","No","Material only",1780.000000,1
+6327311,40595863,79,"Male","Driver error",2999,"Auto","No","Material only",2480.000000,1
+47752178,34901831,65,"Female","Natural causes",8963,"Auto","No","Material only",1380.000000,3
+90414617,7935350,52,"Female","Other causes",7470,"Auto","Unknown","Injury only",35320.000000,4
+2171643,8568950,68,"Female","Other causes",4316,"Auto","No","Material only",2231.000000,1
+69485518,4894512,57,"Male","Other causes",5785,"Auto","Unknown","Material and injury",39525.500000,4
+98526533,73090429,26,"Female","Other driver error",1128,"Auto","No","Material only",1010.000000,2
+13382661,75803542,67,"Female","Natural causes",4232,"Auto","No","Material only",1780.000000,1
+37634264,69862883,59,"Male","Driver error",1158,"Auto","No","Material only",2600.000000,1
+31635893,72123009,40,"Female","Natural causes",2264,"Auto","Unknown","Material only",1320.000000,1
+71363549,20293088,38,"Female","Crime",3629,"Home","Unknown","Material only",2886.500000,2
+123783,96382273,32,"Female","Other driver error",690,"Auto","No","Material and injury",31200.000000,1
+94099313,39827086,50,"Male","Other causes",4517,"Auto","No","Material only",2541.500000,3
+90136725,983063,57,"Female","Driver error",506,"Auto","Unknown","Material and injury",41549.500000,4
+70669803,48291891,40,"Male","Other driver error",2652,"Auto","Unknown","Material and injury",41810.000000,1
+13831459,47525584,27,"Male","Crime",1791,"Home","No","Material only",2050.000000,1
+58439272,12896832,31,"Male","Driver error",961,"Auto","No","Material only",2270.000000,3
+53824917,58845862,21,"Female","Other causes",471,"Auto","No","Material only",1200.000000,1
+3227609,60809627,24,"Male","Other causes",261,"Auto","Yes","Material and injury",47380.000000,1
+48744412,3883167,59,"Female","Other driver error",1739,"Auto","Unknown","Material and injury",39514.000000,1
+34409538,83792960,72,"Male","Driver error",1715,"Auto","No","Material only",1190.000000,1
+9612428,53275540,71,"Female","Crime",8229,"Home","Yes","Material only",2220.000000,1
+18973795,92401977,25,"Female","Other causes",830,"Home","Yes","Injury only",28390.000000,1
+91698681,51305881,27,"Female","Natural causes",1250,"Auto","Unknown","Material only",2650.000000,1
+32195217,97835303,73,"Male","Driver error",11327,"Auto","No","Material only",2863.500000,1
+94948943,33790664,39,"Male","Other causes",3021,"Auto","Unknown","Material and injury",45137.500000,4
+98435750,76287275,24,"Female","Driver error",13,"Auto","Yes","Material and injury",47380.000000,1
+13949155,61762667,65,"Male","Natural causes",3344,"Auto","Unknown","Material and injury",20850.000000,1
+62609448,63028879,48,"Male","Other driver error",204,"Auto","Unknown","Material and injury",17871.000000,2
+52221272,77656754,25,"Male","Other driver error",4,"Auto","Unknown","Injury only",36121.500000,1
+76170975,10970863,30,"Male","Other causes",249,"Auto","No","Material and injury",29450.000000,1
+73552517,74081671,70,"Male","Driver error",2211,"Auto","No","Material only",2940.000000,1
+57196586,31860034,43,"Female","Crime",1092,"Auto","No","Material only",1960.000000,1
+66566300,77202137,21,"Female","Other causes",3,"Auto","No","Material only",3231.500000,1
+31034051,88952745,78,"Male","Driver error",1019,"Auto","Unknown","Material and injury",16430.000000,1
+29766348,31075868,20,"Male","Driver error",5,"Auto","No","Material only",2024.000000,1
+16722273,23212880,55,"Male","Driver error",928,"Auto","No","Injury only",20040.000000,1
+2955871,31949421,21,"Female","Natural causes",17,"Auto","No","Material only",2140.000000,1
+19870858,30183698,19,"Female","Natural causes",6,"Auto","No","Material only",2967.000000,1
+16713814,39349351,56,"Male","Natural causes",4201,"Auto","No","Material only",2040.000000,1
+41620853,4796754,55,"Male","Other causes",2423,"Auto","No","Injury only",33010.000000,1
+68530495,31392658,35,"Female","Other causes",1238,"Auto","No","Material only",2310.000000,1
+93542412,68290163,56,"Female","Other causes",3907,"Auto","Unknown","Material only",1260.000000,1
+96575714,78917119,78,"Male","Driver error",2175,"Auto","Unknown","Material and injury",30780.000000,2
+5616870,40698596,19,"Male","Other causes",5,"Auto","Yes","Material and injury",19251.000000,1
+62947228,27729027,19,"Male","Crime",4,"Auto","No","Material only",2460.000000,1
+86745714,11123534,48,"Male","Other driver error",6824,"Home","Yes","Injury only",28014.000000,6
+26473981,83620286,68,"Male","Other causes",6500,"Auto","No","Material and injury",17388.000000,1
+92036190,78364855,35,"Female","Crime",263,"Auto","No","Material only",2170.000000,1
+59501532,81715464,49,"Female","Other causes",1991,"Auto","No","Material only",1450.000000,1
+85846538,45465922,52,"Male","Other causes",4070,"Auto","No","Injury only",19680.000000,1
+12157422,55843714,57,"Female","Other driver error",6379,"Auto","Unknown","Injury only",35890.000000,1
+72836823,98937426,21,"Female","Crime",257,"Auto","Yes","Material and injury",26160.000000,2
+64824612,20570033,35,"Female","Other driver error",6,"Auto","No","Material only",1090.000000,1
+36694619,10643114,74,"Male","Crime",3415,"Auto","No","Injury only",35180.000000,2
+85151337,97016891,37,"Female","Driver error",1953,"Auto","No","Material only",1790.000000,1
+90530826,77429277,75,"Male","Natural causes",9168,"Auto","No","Material only",2250.000000,2
+40018159,21060205,72,"Male","Driver error",7634,"Auto","No","Material only",2770.000000,1
+97991383,5932763,50,"Male","Other causes",2006,"Auto","Unknown","Material and injury",27650.000000,1
+61793663,72807431,47,"Female","Other causes",1148,"Auto","Yes","Material and injury",35213.000000,3
+12273394,50161332,67,"Female","Other driver error",13716,"Auto","Yes","Material and injury",33085.500000,6
+85977226,72133798,29,"Female","Driver error",253,"Auto","Unknown","Material and injury",22570.000000,1
+82189375,73693705,37,"Female","Crime",439,"Auto","No","Material only",1357.000000,1
+86997871,22038287,30,"Male","Other causes",2156,"Auto","Unknown","Injury only",24930.000000,1
+88726662,29885833,62,"Female","Other causes",9937,"Auto","Unknown","Material and injury",30400.000000,1
+26008192,80835450,45,"Male","Other driver error",531,"Auto","No","Injury only",32960.000000,1
+19396331,8846323,53,"Female","Other causes",1221,"Auto","No","Material only",1090.000000,1
+27284890,22093773,50,"Female","Other driver error",1262,"Auto","Unknown","Injury only",15190.000000,1
+23761160,12921371,24,"Female","Other driver error",396,"Auto","Yes","Material and injury",22250.000000,1
+21863054,78853288,55,"Male","Other causes",3973,"Auto","Unknown","Material only",2288.500000,1
+96767601,60747608,32,"Female","Driver error",958,"Auto","Unknown","Injury only",27750.000000,1
+78306525,10201764,63,"Female","Driver error",6517,"Auto","Yes","Injury only",23460.000000,2
+93443614,30795943,25,"Male","Driver error",175,"Auto","No","Material only",2162.000000,4
+39396887,86272866,32,"Female","Other causes",7,"Auto","Unknown","Injury only",38111.000000,1
+39312899,96504529,75,"Female","Natural causes",2305,"Auto","No","Material only",1180.000000,1
+99712994,40452111,42,"Female","Natural causes",2443,"Auto","No","Material only",2058.500000,3
+84812084,35907503,63,"Male","Natural causes",3993,"Auto","No","Material only",2220.000000,1
+21422976,11324164,62,"Female","Other causes",6849,"Auto","Yes","Material and injury",32140.000000,1
+4419701,53566035,30,"Male","Driver error",1021,"Auto","Unknown","Material only",2080.000000,2
+1336412,13019368,56,"Female","Crime",6612,"Auto","No","Material only",1700.000000,2
+95014335,50371345,20,"Female","Driver error",2,"Auto","No","Material only",2590.000000,1
+47978935,29304051,36,"Female","Other causes",885,"Auto","Yes","Material and injury",20570.000000,1
+96211780,27045227,76,"Female","Other causes",8358,"Auto","No","Injury only",32130.000000,1
+31873436,14793727,20,"Female","Natural causes",4,"Auto","No","Material only",2360.000000,1
+52916492,78077389,28,"Male","Driver error",550,"Home","No","Material only",1830.000000,1
+10099010,59605864,73,"Male","Driver error",6771,"Home","No","Material only",1460.000000,1
+61429408,68053437,49,"Male","Other causes",2417,"Home","Yes","Injury only",28520.000000,1
+82565213,5113445,77,"Male","Crime",3116,"Home","No","Material only",1230.000000,1
+50822032,37155938,41,"Male","Other causes",2307,"Auto","Yes","Injury only",30150.000000,1
+46642583,99034030,43,"Female","Other causes",293,"Home","No","Material only",1679.000000,1
+69205366,18120098,24,"Female","Crime",47,"Auto","Unknown","Injury only",25369.000000,4
+6952234,82023675,62,"Female","Natural causes",4586,"Home","No","Material only",1050.000000,1
+31784193,55755001,47,"Female","Crime",1069,"Auto","No","Material only",2530.000000,1
+18122551,13573888,42,"Male","Natural causes",941,"Home","No","Material only",1830.000000,3
+41802606,24012712,78,"Male","Driver error",6440,"Auto","Unknown","Injury only",39732.500000,1
+46384543,86626631,45,"Male","Natural causes",5365,"Auto","Yes","Injury only",30850.000000,1
+85752193,71064445,51,"Female","Other causes",6122,"Auto","Unknown","Injury only",15270.000000,1
+13086095,91858029,65,"Female","Other causes",8024,"Auto","No","Material only",3059.000000,3
+26100156,91034934,18,"Female","Driver error",7,"Home","Yes","Material only",2553.000000,1
+79996740,24373753,63,"Male","Other driver error",1946,"Auto","No","Injury only",35530.000000,3
+78872667,52653638,55,"Female","Natural causes",2481,"Auto","No","Material only",2840.000000,1
+48794082,97889567,62,"Female","Driver error",4477,"Auto","No","Material only",2430.000000,1
+81143917,58544051,31,"Male","Other causes",3157,"Auto","Unknown","Material only",2392.000000,3
+64318250,37653891,69,"Male","Other causes",3198,"Auto","No","Material only",1495.000000,6
+58575724,67583523,39,"Female","Other driver error",975,"Auto","No","Material only",1510.000000,1
+27142505,11898838,22,"Female","Other driver error",251,"Auto","Unknown","Material and injury",46092.000000,1
+19277687,383135,39,"Male","Natural causes",2158,"Auto","No","Material only",1620.000000,1
+3003804,36499943,70,"Female","Natural causes",5668,"Home","No","Material only",2140.000000,3
+21932289,76798146,19,"Male","Driver error",4,"Auto","Yes","Material only",2990.000000,1
+27670450,50740898,62,"Male","Driver error",3600,"Auto","No","Material only",2350.000000,1
+29801063,34901868,75,"Female","Driver error",4040,"Auto","No","Material only",2990.000000,1
+41496822,93886277,41,"Male","Driver error",2055,"Auto","No","Material only",1290.000000,1
+75121208,66136571,24,"Male","Crime",801,"Auto","No","Material only",2080.000000,1
+81919763,86747139,43,"Female","Crime",3833,"Auto","No","Material only",1100.000000,1
+41074605,91214592,31,"Male","Other causes",1049,"Auto","No","Injury only",25970.000000,1
+95429504,89118009,47,"Male","Natural causes",3873,"Auto","No","Material only",2160.000000,1
+76129693,1667540,31,"Female","Driver error",119,"Auto","No","Material only",2058.500000,2
+28004692,69230359,39,"Male","Other driver error",3767,"Home","No","Material only",2630.000000,1
+34159783,22887492,74,"Male","Other causes",7127,"Auto","No","Material only",1250.000000,2
+62113436,15935015,36,"Male","Natural causes",1342,"Auto","Yes","Injury only",35450.000000,1
+44570489,81736140,65,"Female","Driver error",3781,"Auto","Unknown","Injury only",21378.500000,1
+71653500,57710452,45,"Female","Other causes",4,"Home","Unknown","Injury only",27393.000000,2
+37650384,15248324,74,"Male","Driver error",12160,"Auto","No","Material and injury",25650.000000,3
+26680111,83210742,31,"Female","Natural causes",107,"Auto","No","Material only",2770.000000,1
+97942140,12955834,32,"Male","Driver error",621,"Auto","No","Material only",1540.000000,1
+40828431,7507154,35,"Male","Other causes",2658,"Auto","No","Injury only",26590.000000,1
+37518636,12257082,49,"Female","Natural causes",2033,"Auto","No","Material only",2770.000000,1
+83976886,88651015,52,"Female","Other causes",3758,"Home","Unknown","Material only",1426.000000,1
+74995781,91249838,69,"Female","Other causes",7744,"Auto","Yes","Material and injury",32430.000000,1
+33747884,97408331,73,"Female","Other driver error",2007,"Auto","Unknown","Material only",1400.000000,1
+62914951,1183269,27,"Male","Other causes",245,"Auto","Unknown","Injury only",31950.000000,1
+12697575,33993747,77,"Male","Driver error",3944,"Auto","No","Material and injury",25430.000000,2
+98814253,9806447,58,"Female","Other driver error",581,"Auto","No","Material only",2450.000000,1
+19121916,39911769,74,"Female","Natural causes",9153,"Auto","Yes","Material and injury",24140.000000,3
+51703952,39433369,19,"Male","Driver error",2,"Auto","No","Material only",1322.500000,1
+30196580,71700213,19,"Female","Driver error",8,"Auto","No","Material only",1173.000000,7
+25986105,15806026,67,"Female","Other driver error",258,"Home","No","Material only",2909.500000,1
+54654323,20001394,23,"Male","Driver error",3,"Auto","No","Material only",1240.000000,1
+53838637,1057651,48,"Male","Natural causes",1651,"Auto","No","Material only",1900.000000,1
+13693015,51511405,24,"Female","Driver error",130,"Auto","No","Material only",1250.000000,1
+94653072,20444502,50,"Female","Other causes",6500,"Auto","Yes","Material and injury",39470.000000,1
+53509810,41109756,55,"Female","Other driver error",7426,"Auto","No","Injury only",31860.000000,1
+25102529,46239062,34,"Male","Natural causes",2255,"Auto","No","Material only",2340.000000,1
+12891754,85011886,60,"Male","Other causes",7140,"Auto","No","Material only",1280.000000,1
+65160594,34427070,68,"Male","Natural causes",7506,"Auto","No","Material only",2090.000000,1
+18600816,39467199,48,"Female","Crime",1608,"Auto","No","Material only",1060.000000,1
+93728071,64222917,66,"Female","Other driver error",1178,"Auto","No","Material only",2600.000000,3
+57968215,32914686,45,"Female","Other driver error",2938,"Home","No","Material only",1334.000000,1
+23284812,69188835,27,"Female","Other causes",236,"Auto","No","Material only",1570.000000,3
+11530092,99927815,68,"Female","Natural causes",5007,"Auto","No","Material only",2620.000000,1
+4150765,15685868,76,"Male","Driver error",9606,"Auto","No","Material only",2480.000000,1
+63771672,52142632,34,"Male","Other causes",3669,"Auto","Yes","Material only",2679.500000,1
+94467636,56476553,42,"Male","Driver error",2118,"Auto","No","Material only",2300.000000,1
+78589504,59772632,29,"Female","Other driver error",798,"Auto","Yes","Injury only",29910.000000,1
+56422908,92409765,46,"Male","Natural causes",4927,"Auto","No","Material only",1990.000000,1
+28894745,2031356,40,"Male","Driver error",3213,"Auto","Yes","Material and injury",21820.000000,1
+51291314,29791563,28,"Male","Other driver error",1152,"Auto","Yes","Material and injury",29070.000000,1
+40798312,75476011,45,"Male","Other driver error",1654,"Auto","No","Material only",1820.000000,1
+54660654,27413019,77,"Male","Driver error",8369,"Auto","No","Injury only",19067.000000,1
+83228271,90997253,54,"Female","Crime",4178,"Auto","No","Material only",1130.000000,1
+81183129,40405409,66,"Male","Driver error",9954,"Auto","No","Material only",1710.000000,1
+80292771,91745243,77,"Male","Driver error",1742,"Auto","Unknown","Material and injury",26806.500000,1
+89967739,3222400,54,"Female","Natural causes",3851,"Auto","No","Material only",2810.000000,1
+21433352,83341516,20,"Male","Natural causes",8,"Auto","No","Material only",2100.000000,1
+14262533,52458891,50,"Female","Crime",1302,"Auto","No","Material only",2910.000000,1
+59264446,91767935,36,"Male","Other causes",1218,"Auto","Unknown","Injury only",28700.000000,1
+20816674,54255998,28,"Female","Driver error",267,"Auto","No","Material and injury",14040.000000,1
+73926994,59198953,38,"Male","Other causes",321,"Auto","Unknown","Material only",2970.000000,2
+93180209,44438873,27,"Male","Other causes",8,"Auto","No","Material only",1426.000000,1
+76952861,5076980,61,"Male","Other driver error",2643,"Home","No","Injury only",43746.000000,4
+26373158,46264852,60,"Male","Natural causes",5214,"Auto","No","Material only",1110.000000,1
+19625547,15931504,61,"Male","Other causes",813,"Home","No","Material only",2950.000000,1
+56469579,37776867,33,"Male","Other causes",1191,"Auto","No","Material only",2800.000000,1
+23638820,18562293,26,"Male","Crime",230,"Auto","No","Material only",2260.000000,1
+96967365,52839588,30,"Male","Crime",718,"Auto","Unknown","Material only",3438.500000,1
+6003853,77917139,79,"Female","Other causes",3140,"Auto","Yes","Material and injury",27870.000000,1
+28599322,32628636,54,"Female","Other causes",2435,"Auto","No","Material only",1780.000000,1
+36563047,13271022,73,"Female","Other driver error",1223,"Auto","No","Material only",2440.000000,3
+80708517,56953721,75,"Male","Driver error",7622,"Auto","No","Injury only",18791.000000,1
+95440182,52217515,70,"Male","Driver error",1555,"Auto","No","Material only",1420.000000,1
+38935759,50986239,60,"Female","Other causes",10672,"Auto","No","Material only",1810.000000,1
+10209481,61550362,60,"Male","Driver error",4058,"Auto","No","Injury only",33522.500000,1
+55517148,75867172,64,"Female","Other driver error",3306,"Auto","Unknown","Injury only",36080.000000,2
+83837136,65953997,79,"Male","Driver error",8317,"Auto","Unknown","Material only",2090.000000,1
+5426009,85921452,29,"Female","Other causes",990,"Auto","Unknown","Material only",2190.000000,3
+61863138,61495196,37,"Female","Other causes",2140,"Auto","Unknown","Material only",1644.500000,1
+69616390,62036363,58,"Female","Crime",3832,"Auto","No","Material only",2970.000000,1
+39275043,27157162,20,"Male","Crime",4,"Auto","Unknown","Material only",1276.500000,1
+31612368,94030824,78,"Female","Other driver error",1172,"Auto","No","Material only",3438.500000,1
+91631503,1855550,29,"Male","Natural causes",2,"Auto","Yes","Material and injury",28000.000000,2
+97381204,3511312,58,"Female","Other causes",5507,"Auto","Unknown","Material only",1790.000000,1
+70316359,74741441,69,"Female","Driver error",5146,"Auto","Unknown","Material only",1360.000000,1
+47389209,70608746,26,"Female","Other driver error",1264,"Auto","No","Material only",1200.000000,1
+94631528,99260126,53,"Female","Other causes",7263,"Auto","Yes","Material and injury",31020.000000,1
+1167518,40472324,59,"Female","Natural causes",6593,"Auto","Yes","Injury only",35670.000000,1
+97829442,69023377,72,"Female","Other causes",3049,"Auto","No","Material only",2050.000000,1
+9951164,43135934,40,"Female","Natural causes",3194,"Auto","Unknown","Injury only",38150.000000,1
+65821987,50878476,64,"Female","Crime",4294,"Auto","No","Material only",1870.000000,1
+32247788,382279,28,"Female","Other causes",615,"Auto","Unknown","Material and injury",38065.000000,1
+55037499,67337226,21,"Female","Driver error",64,"Auto","No","Material and injury",39790.000000,1
+86076761,81472403,64,"Male","Driver error",4939,"Auto","No","Material only",1828.500000,1
+99966169,58175349,23,"Female","Other driver error",6,"Auto","No","Injury only",26783.500000,1
+71219746,22844353,55,"Male","Crime",4457,"Auto","No","Material only",1260.000000,1
+14106912,48943610,64,"Male","Driver error",5085,"Auto","No","Material only",1250.000000,2
+1096709,41142406,50,"Female","Natural causes",455,"Auto","No","Material only",1656.000000,1
+37914955,33489017,72,"Male","Driver error",3802,"Auto","No","Material only",1690.000000,1
+47021509,2379171,55,"Female","Other causes",2574,"Auto","No","Material only",2040.000000,1
+26757959,65583276,29,"Female","Crime",1370,"Auto","Unknown","Material only",2670.000000,1
+9000979,65253759,43,"Male","Other causes",1940,"Auto","No","Material only",1410.000000,2
+6317144,12993574,19,"Female","Crime",7,"Auto","No","Material only",2050.000000,2
+40972,96171752,72,"Male","Other causes",6197,"Auto","Unknown","Injury only",17220.000000,1
+51212711,89855063,44,"Female","Other causes",6336,"Auto","Unknown","Material only",2320.000000,2
+1681359,7402089,70,"Male","Other causes",1428,"Auto","No","Material only",2668.000000,3
+96832220,17560935,56,"Female","Natural causes",3430,"Auto","No","Material only",1495.000000,3
+91355655,22654376,50,"Male","Natural causes",4957,"Auto","No","Material only",1472.000000,1
+80465113,90060157,50,"Male","Other causes",851,"Auto","Unknown","Injury only",14150.000000,1
+54843353,93527864,21,"Female","Driver error",84,"Auto","Unknown","Material and injury",29020.000000,1
+73723313,81949658,28,"Male","Driver error",8,"Auto","Unknown","Material only",2150.500000,1
+42498599,36047447,28,"Male","Crime",834,"Auto","Unknown","Material only",1560.000000,1
+78912832,67565489,18,"Male","Driver error",4,"Home","Unknown","Injury only",27588.500000,1
+74515971,4221546,45,"Female","Other causes",1379,"Auto","Yes","Material only",2600.000000,1
+94356425,23335781,50,"Female","Other driver error",3383,"Auto","Yes","Injury only",26410.000000,1
+66498209,92120448,37,"Male","Driver error",4,"Auto","Yes","Material only",1220.000000,4
+68782700,25348861,59,"Female","Other driver error",5211,"Auto","Yes","Material and injury",33540.000000,1
+30353129,20704200,21,"Male","Driver error",13,"Auto","No","Material only",2190.000000,1
+53951018,14384347,38,"Female","Other driver error",2305,"Auto","No","Material and injury",14770.000000,1
+12730671,57576348,65,"Male","Natural causes",10746,"Auto","Unknown","Material only",1290.000000,1
+67969707,39129905,29,"Male","Crime",935,"Auto","No","Material only",1817.000000,2
+52575666,73283267,67,"Male","Other causes",4219,"Auto","No","Material only",2254.000000,1
+77925368,54083194,58,"Female","Other causes",2458,"Auto","Yes","Material and injury",17300.000000,1
+42338326,28650307,22,"Female","Other causes",286,"Auto","Unknown","Injury only",16820.000000,1
+66471038,55733494,50,"Male","Driver error",168,"Auto","No","Material only",2070.000000,4
+82405111,63336032,27,"Female","Driver error",112,"Auto","No","Material only",2190.000000,1
+54599104,24443886,55,"Female","Natural causes",4327,"Auto","No","Material only",3174.000000,4
+84158254,16127897,41,"Male","Driver error",3460,"Auto","Unknown","Material only",1530.000000,1
+37156887,85029713,76,"Male","Driver error",5145,"Auto","No","Material only",1500.000000,4
+49000463,64719532,39,"Male","Driver error",1582,"Auto","Yes","Injury only",14280.000000,1
+13157724,92933088,62,"Female","Other causes",2468,"Auto","Unknown","Material and injury",27990.000000,3
+52533137,95795566,28,"Female","Other causes",1455,"Auto","Unknown","Injury only",33540.000000,1
+50256733,54397178,39,"Male","Natural causes",3854,"Auto","Yes","Material only",2730.000000,1
+74513997,76173837,33,"Female","Driver error",3235,"Auto","No","Material only",2850.000000,1
+14449425,68075720,56,"Male","Natural causes",1081,"Auto","Unknown","Injury only",38790.000000,1
+98561949,95192791,66,"Female","Driver error",707,"Auto","No","Injury only",26130.000000,1
+2444370,701635,73,"Female","Other driver error",6661,"Auto","No","Material only",1450.000000,2
+60042893,58426607,25,"Male","Natural causes",6,"Auto","No","Material only",1840.000000,4
+72326863,70716287,37,"Female","Other causes",1328,"Auto","No","Material and injury",39540.000000,1
+92654372,53191348,32,"Female","Other causes",629,"Auto","No","Material only",2850.000000,1
+30778402,46344390,18,"Female","Driver error",6,"Auto","Yes","Material only",2346.000000,1
+32803608,88807301,38,"Female","Other causes",2462,"Auto","Unknown","Material only",2740.000000,1
+69122034,12674307,31,"Male","Driver error",1441,"Auto","No","Material and injury",43240.000000,1
+22531633,34374243,71,"Male","Driver error",7155,"Auto","No","Material only",1620.000000,1
+24139163,30323453,54,"Male","Natural causes",8628,"Auto","Unknown","Material only",1610.000000,1
+36046504,23678693,38,"Male","Natural causes",1471,"Auto","No","Material and injury",25357.500000,1
+21520869,10339536,19,"Male","Driver error",2,"Auto","No","Material only",1771.000000,1
+23487557,54234775,65,"Female","Other driver error",5177,"Auto","Unknown","Material only",2540.000000,1
+98914704,92987977,58,"Female","Natural causes",2420,"Auto","No","Material only",1550.000000,1
+58223636,23963322,47,"Female","Natural causes",434,"Auto","Unknown","Injury only",24180.000000,1
+90678459,26063054,28,"Male","Other driver error",289,"Auto","No","Material only",2714.000000,1
+50450164,82239071,73,"Female","Other driver error",5388,"Home","Unknown","Material only",3197.000000,1
+82075998,74940571,64,"Male","Driver error",10108,"Auto","No","Material and injury",34520.000000,1
+46042908,12601820,71,"Male","Crime",1345,"Auto","No","Material only",1210.000000,1
+84187305,6902255,64,"Female","Crime",9407,"Auto","No","Material only",1322.500000,1
+11927269,52057105,63,"Female","Natural causes",4646,"Auto","No","Material only",2173.500000,1
+10298774,49985742,66,"Female","Other driver error",2388,"Auto","No","Injury only",37740.000000,1
+1239957,42811394,63,"Female","Other causes",743,"Auto","Unknown","Injury only",30790.000000,2
+51569807,26422466,32,"Male","Other causes",367,"Auto","Unknown","Material only",2403.500000,1
+82251843,90265558,34,"Male","Driver error",1528,"Auto","Yes","Material and injury",40600.000000,1
+47953623,94932034,33,"Female","Other driver error",1322,"Home","No","Material and injury",31430.000000,2
+43314248,97535483,61,"Male","Driver error",2760,"Auto","Unknown","Material only",2750.000000,2
+12226467,11114999,75,"Male","Driver error",11966,"Auto","Yes","Injury only",21820.000000,1
+84809349,69745229,77,"Male","Natural causes",2907,"Auto","No","Material only",2470.000000,1
+57628662,35107064,19,"Male","Driver error",8,"Home","Yes","Material only",1575.500000,6
+56798311,25280342,38,"Female","Natural causes",1991,"Home","No","Material only",1414.500000,2
+83066971,67501389,53,"Female","Other causes",836,"Auto","No","Material and injury",27531.000000,4
+20746090,81321698,24,"Female","Driver error",29,"Auto","Unknown","Material only",3139.500000,1
+67816204,86326167,50,"Female","Other causes",7952,"Auto","No","Material only",1110.000000,1
+55228481,51148463,76,"Male","Other causes",4845,"Home","No","Material and injury",28750.000000,2
+80363022,50258867,76,"Male","Driver error",7253,"Home","No","Injury only",22830.000000,1
+65256894,32796598,49,"Female","Crime",3433,"Auto","Yes","Material only",2510.000000,1
+56674756,33584518,27,"Male","Driver error",167,"Auto","No","Material and injury",28899.500000,4
+98061155,85060580,44,"Male","Crime",2381,"Auto","Unknown","Injury only",30870.000000,1
+57192719,3214766,61,"Male","Crime",10,"Auto","No","Material only",3254.500000,2
+94544278,88531258,44,"Female","Other causes",6015,"Auto","Unknown","Material and injury",37680.000000,1
+85342369,99371051,70,"Female","Other driver error",617,"Auto","Yes","Material and injury",47069.500000,5
+65056774,75481947,25,"Female","Natural causes",472,"Auto","Unknown","Material only",2400.000000,1
+70680582,3016537,37,"Male","Natural causes",3082,"Auto","No","Injury only",24820.000000,1
+94114048,94988747,78,"Female","Other driver error",1961,"Auto","Yes","Material and injury",17350.000000,2
+13478105,48290439,63,"Male","Other causes",3865,"Auto","Yes","Material and injury",23260.000000,1
+35932757,34489508,36,"Female","Crime",1060,"Auto","No","Material only",1150.000000,1
+41077183,60293075,40,"Female","Natural causes",477,"Auto","Unknown","Material only",2150.000000,1
+73725828,11399277,43,"Female","Other causes",3011,"Auto","No","Material only",2250.000000,1
+25153831,30634483,73,"Female","Crime",6053,"Auto","No","Material only",1340.000000,1
+87954499,26240262,22,"Female","Other causes",702,"Auto","Unknown","Material and injury",30850.000000,1
+86619309,23414209,36,"Male","Other driver error",1691,"Auto","Yes","Injury only",35830.000000,1
+50089186,1051741,27,"Female","Other causes",353,"Home","Yes","Injury only",35930.000000,3
+11185247,59039868,43,"Female","Crime",1554,"Home","No","Material only",2310.000000,1
+68884662,38491664,63,"Male","Other causes",7570,"Auto","Unknown","Material and injury",23170.000000,1
+64414447,66287540,42,"Male","Other causes",4703,"Auto","No","Material only",1440.000000,5
+73283056,86096719,49,"Male","Other driver error",3574,"Auto","Unknown","Material and injury",30130.000000,1
+42113571,88091936,65,"Male","Other driver error",9814,"Auto","No","Injury only",15480.000000,1
+39891954,79639210,43,"Male","Other driver error",1568,"Auto","Yes","Material only",2060.000000,1
+99780471,21114224,71,"Male","Driver error",5194,"Auto","Unknown","Material and injury",46494.500000,1
+10986594,79496061,40,"Female","Other driver error",1253,"Auto","No","Material only",1207.500000,8
+98803210,39694832,57,"Male","Other causes",1463,"Auto","Yes","Material and injury",20493.000000,1
+83606046,39229410,52,"Female","Crime",3683,"Auto","No","Material only",1280.000000,1
+93662298,73747251,57,"Female","Natural causes",1125,"Home","No","Injury only",24580.000000,1
+99909192,51008708,29,"Male","Other causes",88,"Auto","No","Material only",3243.000000,4
+99538978,82998509,31,"Male","Natural causes",8,"Auto","No","Material only",1460.000000,1
+62488702,33793236,45,"Male","Other driver error",1801,"Auto","No","Material only",2890.000000,1
+35861004,16095943,41,"Male","Driver error",858,"Auto","Unknown","Material only",3381.000000,1
+21788033,47969872,35,"Male","Natural causes",720,"Auto","Unknown","Material only",2950.000000,1
+59475108,18313219,78,"Male","Driver error",3045,"Auto","Unknown","Material only",3392.500000,1
+27607400,27120690,75,"Male","Other causes",6385,"Auto","Unknown","Material only",2620.000000,1
+30679386,2548015,23,"Female","Other causes",342,"Auto","Unknown","Injury only",38295.000000,1
+66123919,50950004,37,"Female","Other causes",3,"Auto","No","Material only",2470.000000,1
+9052832,66116906,57,"Male","Other driver error",9333,"Auto","No","Material only",1310.000000,1
+84565338,42005855,26,"Female","Natural causes",805,"Auto","No","Material only",2484.000000,4
+16204042,46807023,37,"Female","Natural causes",0,"Auto","Yes","Injury only",29888.500000,1
+48236772,97304597,19,"Female","Crime",6,"Home","Unknown","Material only",1660.000000,1
+66564173,7973106,56,"Male","Other causes",4549,"Auto","No","Material only",1702.000000,4
+31144224,93660304,23,"Female","Natural causes",430,"Auto","Unknown","Material only",1863.000000,3
+42090026,35651638,70,"Female","Other driver error",3864,"Auto","Yes","Material and injury",28324.500000,5
+98702521,56109844,28,"Male","Other causes",1163,"Auto","No","Injury only",35980.000000,1
+79212013,78131732,22,"Female","Other causes",582,"Auto","No","Material only",1130.000000,1
+52664919,66267410,53,"Female","Natural causes",3883,"Auto","Yes","Injury only",34110.000000,1
+34829484,70302657,37,"Male","Driver error",78,"Home","No","Material only",1310.000000,1
+44352679,22717844,48,"Female","Crime",227,"Auto","Unknown","Material only",2392.000000,3
+97132044,47990810,51,"Male","Natural causes",1478,"Auto","No","Material only",1910.000000,1
+12511823,9978282,43,"Male","Other driver error",4670,"Home","No","Injury only",30760.000000,1
+79930143,9688127,42,"Female","Crime",2701,"Auto","No","Material only",1410.000000,2
+8552674,30482816,19,"Male","Other causes",8,"Auto","No","Material only",2679.500000,1
+98544238,76705528,34,"Male","Driver error",2669,"Auto","Unknown","Material and injury",24620.000000,1
+76770596,1270631,20,"Female","Other driver error",7,"Auto","Unknown","Material and injury",45862.000000,1
+57390883,90867520,44,"Male","Natural causes",1250,"Auto","No","Material only",2520.000000,1
+8029259,96044993,51,"Female","Driver error",1535,"Auto","No","Material only",2510.000000,1
+50728569,72729699,61,"Male","Natural causes",4095,"Auto","Unknown","Material and injury",38570.000000,1
+9828164,67931941,74,"Male","Driver error",9790,"Auto","Yes","Injury only",35510.000000,1
+99731300,25350742,41,"Male","Driver error",2688,"Auto","No","Material only",1240.000000,1
+18901267,54516587,39,"Male","Driver error",2895,"Auto","No","Material only",1460.500000,1
+62654290,71887648,59,"Female","Driver error",640,"Auto","No","Material only",1850.000000,1
+26407672,91979619,23,"Female","Other driver error",784,"Home","Unknown","Material only",1880.000000,1
+58585293,47788049,40,"Female","Other causes",5425,"Home","Unknown","Material and injury",23200.000000,1
+42385290,3052336,76,"Male","Driver error",7916,"Auto","No","Material and injury",23600.000000,3
+88316658,26721954,57,"Female","Natural causes",1949,"Auto","No","Material only",1253.500000,4
+18728869,5056735,60,"Male","Natural causes",3218,"Auto","No","Material only",3036.000000,1
+9355984,4864495,22,"Male","Driver error",282,"Auto","No","Material only",1030.000000,1
+24544793,65881134,54,"Male","Driver error",1733,"Auto","Unknown","Material only",2740.000000,1
+41558898,1539217,22,"Male","Driver error",268,"Auto","Unknown","Injury only",16019.500000,3
+22463478,72071908,33,"Female","Natural causes",534,"Auto","Unknown","Material only",1280.000000,1
+16524106,7213189,43,"Male","Other driver error",1753,"Auto","Unknown","Injury only",22710.000000,1
+3895313,69786289,30,"Female","Natural causes",1973,"Auto","No","Material only",2960.000000,1
+62292093,4911521,28,"Male","Driver error",749,"Auto","Yes","Material and injury",48001.000000,3
+21628324,33475358,25,"Female","Other causes",239,"Auto","No","Material only",1990.000000,3
+90126024,89192368,43,"Female","Driver error",1322,"Auto","Unknown","Material only",2870.000000,1
+91405740,45121447,42,"Male","Driver error",2195,"Auto","Unknown","Material only",2530.000000,1
+25692136,26165981,79,"Male","Driver error",3404,"Auto","No","Injury only",21890.000000,1
+28048430,40888063,30,"Female","Other causes",220,"Auto","No","Material and injury",15130.000000,1
+75403844,9951006,51,"Male","Other causes",2818,"Auto","No","Material and injury",19560.000000,1
+75209762,17306079,74,"Male","Driver error",7037,"Auto","No","Material only",1870.000000,1
+20965859,80929122,66,"Female","Other causes",2670,"Auto","Yes","Material and injury",39960.000000,1
+77246047,16188437,35,"Female","Natural causes",3306,"Auto","No","Injury only",24730.000000,1
+3017411,22857491,34,"Female","Other driver error",3701,"Auto","No","Material only",2880.000000,4
+46056251,15769908,39,"Male","Natural causes",2818,"Auto","No","Material and injury",23000.000000,1
+20272265,51625585,77,"Female","Other driver error",10842,"Auto","No","Material and injury",23920.000000,1
+53321492,16317545,79,"Male","Other driver error",5704,"Auto","Yes","Material and injury",27580.000000,1
+31646123,20722566,33,"Female","Other causes",1601,"Auto","Yes","Material and injury",40360.000000,2
+92005506,13690998,74,"Female","Driver error",1728,"Auto","No","Material and injury",28290.000000,3
+57647505,31266579,19,"Male","Driver error",4,"Auto","Unknown","Material only",1320.000000,3
+70866480,8252387,58,"Female","Other causes",1072,"Auto","No","Injury only",19320.000000,1
+91057574,82818339,27,"Female","Other driver error",25,"Auto","No","Material only",1630.000000,1
+18404129,15488351,64,"Female","Other driver error",1396,"Auto","No","Material only",1510.000000,3
+59754154,9269615,20,"Male","Driver error",4,"Auto","Unknown","Material and injury",29900.000000,1
+88211963,45463254,64,"Male","Other causes",5774,"Auto","Unknown","Material and injury",23750.000000,1
+26966260,14581612,56,"Male","Other driver error",2697,"Auto","Unknown","Injury only",28420.000000,2
+84746809,7850983,36,"Male","Driver error",517,"Auto","No","Material only",1966.500000,1
+30430032,27360297,67,"Female","Driver error",7025,"Auto","Unknown","Material only",1130.000000,3
+37830368,56564639,22,"Female","Driver error",599,"Auto","No","Material only",1920.500000,5
+95561970,42691068,45,"Female","Natural causes",2452,"Auto","No","Material only",1140.000000,1
+65199750,91537677,67,"Male","Natural causes",9027,"Home","Yes","Material only",1150.000000,1
+42603859,81027106,56,"Male","Other driver error",2697,"Auto","Unknown","Material and injury",21770.000000,1
+31258300,92309530,39,"Female","Other driver error",572,"Auto","Unknown","Material and injury",23460.000000,6
+9367978,45130661,24,"Female","Crime",459,"Auto","No","Material only",2967.000000,3
+79918360,86984815,37,"Female","Other driver error",2258,"Auto","No","Material and injury",35440.000000,1
+31881325,89292778,61,"Male","Crime",1750,"Auto","No","Material only",2110.000000,3
+57057636,90342574,22,"Female","Crime",129,"Auto","No","Material only",3381.000000,4
+58452079,22323075,41,"Male","Driver error",4257,"Auto","No","Material only",2340.000000,4
+31585037,961332,61,"Female","Other causes",7204,"Auto","No","Material only",1340.000000,1
+18559246,66695289,49,"Male","Natural causes",5361,"Home","No","Material only",3162.500000,6
+47319791,17645780,69,"Male","Driver error",2157,"Auto","No","Material only",1020.000000,1

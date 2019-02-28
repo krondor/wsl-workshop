@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "guid": "Breast Cancer Data ETL"
+  },
+  "entity": {
+    "name": "Breast Cancer Data ETL",
+    "description": "ETL Breast Cancer Data Visually",
+    "runtime": "spss-modeler"
+  }
+}

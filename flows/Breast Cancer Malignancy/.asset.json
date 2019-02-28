@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "guid": "Breast Cancer Malignancy"
+  },
+  "entity": {
+    "name": "Breast Cancer Malignancy",
+    "description": "",
+    "runtime": "spss-modeler"
+  }
+}
