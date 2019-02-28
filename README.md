@@ -2,7 +2,7 @@
 Watson Studio Overview Workshop
 
 <p align="center">
-  <img src="misc/ws_header.png?raw=true" alt="Watson Studio"/>
+  <img src="misc/ws_header.jpg?raw=true" alt="Watson Studio"/>
 </p>
 
 # Spark,	Machine	Learning,	Operationalization, Decision Optimization, and Graphical Modeling
