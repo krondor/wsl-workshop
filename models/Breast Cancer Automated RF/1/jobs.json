@@ -1,0 +1,21 @@
+[
+  {
+    "args": [],
+    "author": "999",
+    "dateCreated": 1551357363,
+    "displayName": "Breast Cancer Automated RF-1551357342764",
+    "env": [],
+    "fileName": "Breast Cancer Automated RF-model-evaluation-1551357342764.py",
+    "jobId": "56fac6988a4ae19f",
+    "jobName": "breast-cancer-automated-rf-1551357342764",
+    "mainScript": [
+      "/opt/conda/bin/python",
+      "scripts/Breast Cancer Automated RF-model-evaluation-1551357342764.py"
+    ],
+    "remoteOptions": [],
+    "runtimeEnvironment": "dsx-scripted-ml-python3",
+    "scheduleDescription": "On demand",
+    "targetHost": "",
+    "type": "Model evaluation"
+  }
+]

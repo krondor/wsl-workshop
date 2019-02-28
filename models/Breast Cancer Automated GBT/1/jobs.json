@@ -1,0 +1,40 @@
+[
+  {
+    "args": [],
+    "author": "999",
+    "dateCreated": 1551357282,
+    "displayName": "Breast Cancer Automated GBT-1551357258686",
+    "env": [],
+    "fileName": "Breast Cancer Automated GBT-model-evaluation-1551357258686.py",
+    "jobId": "7c1a0f2c57cf4574",
+    "jobName": "breast-cancer-automated-gbt-1551357258686",
+    "mainScript": [
+      "/opt/conda/bin/python",
+      "scripts/Breast Cancer Automated GBT-model-evaluation-1551357258686.py"
+    ],
+    "remoteOptions": [],
+    "runtimeEnvironment": "dsx-scripted-ml-python3",
+    "scheduleDescription": "On demand",
+    "targetHost": "",
+    "type": "Model evaluation"
+  },
+  {
+    "args": [],
+    "author": "999",
+    "dateCreated": 1551357333,
+    "displayName": "Breast Cancer Automated GBT-1551357304159",
+    "env": [],
+    "fileName": "Breast Cancer Automated GBT-batch-scoring-1551357304159.py",
+    "jobId": "6a87be3c299f547c",
+    "jobName": "breast-cancer-automated-gbt-1551357304159",
+    "mainScript": [
+      "/opt/conda/bin/python",
+      "scripts/Breast Cancer Automated GBT-batch-scoring-1551357304159.py"
+    ],
+    "remoteOptions": [],
+    "runtimeEnvironment": "dsx-scripted-ml-python3",
+    "scheduleDescription": "On demand",
+    "targetHost": "",
+    "type": "Batch scoring"
+  }
+]
