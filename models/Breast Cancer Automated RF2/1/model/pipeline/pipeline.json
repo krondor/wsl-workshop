@@ -1,0 +1,63 @@
+{
+  "docType" : "pipeline",
+  "version" : "1.0",
+  "inputDocument" : {
+    "runtime" : "scala-spark-2.0.2",
+    "pipeline" : [ {
+      "id" : "nodeADP",
+      "op" : "com.ibm.analytics.wml.features.ADP",
+      "inputDatasets" : [ ],
+      "outputDatasets" : [ "adpOutputDataFrame" ],
+      "params" : {
+        "numericCategoricalCols" : [ ],
+        "nullStringVal" : "$NNUULL",
+        "sampleSize" : 1000,
+        "useFeatureNorm" : true,
+        "featuresCol" : "features",
+        "predictionField" : "prediction",
+        "decodedField" : "nodeADP_class",
+        "autoFieldsDiscovery" : true,
+        "handleInvalid" : "skip",
+        "isClassification" : true,
+        "labelCol" : "diagnosis",
+        "maxCategories" : 100,
+        "labelEncodedCol" : "label",
+        "randomSeed" : 7144838,
+        "inputCols" : [ ],
+        "excludedCols" : [ ]
+      }
+    }, {
+      "id" : "nodeEstimator",
+      "op" : "org.apache.spark.ml.classification.RandomForestClassifier",
+      "inputDatasets" : [ "adpOutputDataFrame" ],
+      "outputDatasets" : [ "modelOutputDataFrame" ],
+      "params" : {
+        "seed" : 207336481,
+        "featuresCol" : "features",
+        "rawPredictionCol" : "rawPrediction",
+        "maxBins" : 32,
+        "minInstancesPerNode" : 1,
+        "cacheNodeIds" : false,
+        "predictionCol" : "prediction",
+        "subsamplingRate" : 1.0,
+        "probabilityCol" : "probability",
+        "minInfoGain" : 0.0,
+        "featureSubsetStrategy" : "auto",
+        "numTrees" : 20,
+        "maxDepth" : 5,
+        "impurity" : "gini",
+        "checkpointInterval" : 10,
+        "labelCol" : "label",
+        "maxMemoryInMB" : 256
+      }
+    }, {
+      "id" : "DecHolder_9f5bbaa78557",
+      "op" : "com.ibm.analytics.wml.features.DecoderHolder",
+      "inputDatasets" : [ "modelOutputDataFrame" ],
+      "outputDatasets" : [ "decoderOutputDataFrame" ],
+      "params" : {
+        "outputCol" : "LabelDecoder_4a1636e9bec1__output"
+      }
+    } ]
+  }
+}

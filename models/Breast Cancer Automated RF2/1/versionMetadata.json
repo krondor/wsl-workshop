@@ -1,0 +1,55 @@
+{
+  "modifiedAt": 1551366094800,
+  "description": "RF2",
+  "performanceMetrics": {
+    "recallByThreshold": [{
+      "threshold": 1,
+      "metric": 0.9047619047619048
+    }, {
+      "threshold": 0,
+      "metric": 1
+    }],
+    "precisionByThreshold": [{
+      "threshold": 1,
+      "metric": 0.9743589743589743
+    }, {
+      "threshold": 0,
+      "metric": 0.3853211009174312
+    }],
+    "areaUnderPR": 0.9579090634136507,
+    "fMeasureByThreshold": [{
+      "threshold": 1,
+      "metric": 0.9382716049382716
+    }, {
+      "threshold": 0,
+      "metric": 0.5562913907284769
+    }],
+    "pr": [{
+      "recall": 0,
+      "precision": 1
+    }, {
+      "recall": 0.9047619047619048,
+      "precision": 0.9743589743589743
+    }, {
+      "recall": 1,
+      "precision": 0.3853211009174312
+    }],
+    "created_at": "2019-02-28T14:59:29.929Z",
+    "roc": [{
+      "threshold": 0,
+      "metric": 0
+    }, {
+      "threshold": 0.014925373134328358,
+      "metric": 0.9047619047619048
+    }, {
+      "threshold": 1,
+      "metric": 1
+    }, {
+      "threshold": 1,
+      "metric": 1
+    }],
+    "areaUnderROC": 0.9449182658137881
+  },
+  "modelVersion": 1,
+  "modifiedBy": "999"
+}
